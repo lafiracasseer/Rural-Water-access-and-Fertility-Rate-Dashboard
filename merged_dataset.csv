@@ -1,0 +1,1847 @@
+country,year,region,fertility_rate,rural_water_access_pct
+Afghanistan,2000,South Asia,7.534,24.3
+Afghanistan,2001,South Asia,7.446,25.9
+Afghanistan,2002,South Asia,7.339,27.6
+Afghanistan,2003,South Asia,7.22,29.2
+Afghanistan,2004,South Asia,7.069,30.8
+Afghanistan,2005,South Asia,6.905,32.4
+Afghanistan,2006,South Asia,6.722,34.0
+Afghanistan,2007,South Asia,6.53,35.6
+Afghanistan,2008,South Asia,6.376,37.3
+Afghanistan,2009,South Asia,6.235,38.9
+Afghanistan,2010,South Asia,6.099,40.5
+Afghanistan,2011,South Asia,5.958,42.1
+Afghanistan,2012,South Asia,5.83,43.7
+Afghanistan,2013,South Asia,5.696,45.4
+Afghanistan,2014,South Asia,5.56,47.0
+Afghanistan,2015,South Asia,5.405,47.0
+Afghanistan,2016,South Asia,5.262,47.0
+Afghanistan,2017,South Asia,5.129,47.0
+Afghanistan,2018,South Asia,5.002,47.0
+Afghanistan,2019,South Asia,4.87,47.0
+Afghanistan,2020,South Asia,4.75,47.0
+Afghanistan,2021,South Asia,4.643,47.0
+Algeria,2000,Middle East & North Africa,2.566,84.0
+Algeria,2001,Middle East & North Africa,2.507,83.9
+Algeria,2002,Middle East & North Africa,2.456,83.7
+Algeria,2003,Middle East & North Africa,2.481,83.6
+Algeria,2004,Middle East & North Africa,2.512,83.4
+Algeria,2005,Middle East & North Africa,2.555,83.3
+Algeria,2006,Middle East & North Africa,2.604,83.1
+Algeria,2007,Middle East & North Africa,2.677,83.0
+Algeria,2008,Middle East & North Africa,2.753,82.8
+Algeria,2009,Middle East & North Africa,2.813,82.7
+Algeria,2010,Middle East & North Africa,2.843,82.5
+Algeria,2011,Middle East & North Africa,2.88,82.4
+Algeria,2012,Middle East & North Africa,2.956,82.2
+Algeria,2013,Middle East & North Africa,2.957,82.1
+Algeria,2014,Middle East & North Africa,3.004,81.9
+Algeria,2015,Middle East & North Africa,3.041,81.8
+Algeria,2016,Middle East & North Africa,3.051,81.8
+Algeria,2017,Middle East & North Africa,3.05,81.8
+Algeria,2018,Middle East & North Africa,3.023,81.8
+Algeria,2019,Middle East & North Africa,2.988,81.8
+Algeria,2020,Middle East & North Africa,2.942,81.8
+Algeria,2021,Middle East & North Africa,2.889,81.8
+Angola,2000,Sub-Saharan Africa,6.639,38.7
+Angola,2001,Sub-Saharan Africa,6.601,37.9
+Angola,2002,Sub-Saharan Africa,6.567,37.0
+Angola,2003,Sub-Saharan Africa,6.533,36.2
+Angola,2004,Sub-Saharan Africa,6.499,35.4
+Angola,2005,Sub-Saharan Africa,6.461,34.6
+Angola,2006,Sub-Saharan Africa,6.419,33.8
+Angola,2007,Sub-Saharan Africa,6.372,33.0
+Angola,2008,Sub-Saharan Africa,6.32,32.2
+Angola,2009,Sub-Saharan Africa,6.26,31.4
+Angola,2010,Sub-Saharan Africa,6.194,30.6
+Angola,2011,Sub-Saharan Africa,6.12,29.8
+Angola,2012,Sub-Saharan Africa,6.039,29.0
+Angola,2013,Sub-Saharan Africa,5.953,28.2
+Angola,2014,Sub-Saharan Africa,5.864,28.2
+Angola,2015,Sub-Saharan Africa,5.774,28.2
+Angola,2016,Sub-Saharan Africa,5.686,28.2
+Angola,2017,Sub-Saharan Africa,5.6,28.2
+Angola,2018,Sub-Saharan Africa,5.519,28.2
+Angola,2019,Sub-Saharan Africa,5.442,28.2
+Angola,2020,Sub-Saharan Africa,5.371,28.2
+Angola,2021,Sub-Saharan Africa,5.304,28.2
+Armenia,2000,Europe & Central Asia,1.603,81.7
+Armenia,2001,Europe & Central Asia,1.544,83.2
+Armenia,2002,Europe & Central Asia,1.525,84.7
+Armenia,2003,Europe & Central Asia,1.534,86.1
+Armenia,2004,Europe & Central Asia,1.541,87.6
+Armenia,2005,Europe & Central Asia,1.54,89.1
+Armenia,2006,Europe & Central Asia,1.349,90.6
+Armenia,2007,Europe & Central Asia,1.418,92.0
+Armenia,2008,Europe & Central Asia,1.441,93.5
+Armenia,2009,Europe & Central Asia,1.551,95.0
+Armenia,2010,Europe & Central Asia,1.501,96.5
+Armenia,2011,Europe & Central Asia,1.5,98.0
+Armenia,2012,Europe & Central Asia,1.6,99.4
+Armenia,2013,Europe & Central Asia,1.6,100.0
+Armenia,2014,Europe & Central Asia,1.703,100.0
+Armenia,2015,Europe & Central Asia,1.602,100.0
+Armenia,2016,Europe & Central Asia,1.626,100.0
+Armenia,2017,Europe & Central Asia,1.562,100.0
+Armenia,2018,Europe & Central Asia,1.572,100.0
+Armenia,2019,Europe & Central Asia,1.575,100.0
+Armenia,2020,Europe & Central Asia,1.575,100.0
+Armenia,2021,Europe & Central Asia,1.575,100.0
+Azerbaijan,2000,Europe & Central Asia,2.0,59.0
+Azerbaijan,2001,Europe & Central Asia,1.8,60.3
+Azerbaijan,2002,Europe & Central Asia,1.8,61.5
+Azerbaijan,2003,Europe & Central Asia,1.9,62.8
+Azerbaijan,2004,Europe & Central Asia,2.054,64.0
+Azerbaijan,2005,Europe & Central Asia,2.0,65.3
+Azerbaijan,2006,Europe & Central Asia,1.97,66.5
+Azerbaijan,2007,Europe & Central Asia,1.97,67.8
+Azerbaijan,2008,Europe & Central Asia,1.9,69.0
+Azerbaijan,2009,Europe & Central Asia,1.82,70.3
+Azerbaijan,2010,Europe & Central Asia,1.92,71.5
+Azerbaijan,2011,Europe & Central Asia,1.96,72.8
+Azerbaijan,2012,Europe & Central Asia,2.0,74.0
+Azerbaijan,2013,Europe & Central Asia,1.98,75.3
+Azerbaijan,2014,Europe & Central Asia,1.97,76.5
+Azerbaijan,2015,Europe & Central Asia,1.94,77.8
+Azerbaijan,2016,Europe & Central Asia,1.9,77.8
+Azerbaijan,2017,Europe & Central Asia,1.75,77.8
+Azerbaijan,2018,Europe & Central Asia,1.73,77.8
+Azerbaijan,2019,Europe & Central Asia,1.81,77.8
+Azerbaijan,2020,Europe & Central Asia,1.7,77.8
+Azerbaijan,2021,Europe & Central Asia,1.52,77.8
+Bangladesh,2000,South Asia,3.218,73.7
+Bangladesh,2001,South Asia,3.146,74.6
+Bangladesh,2002,South Asia,3.084,75.5
+Bangladesh,2003,South Asia,3.002,76.4
+Bangladesh,2004,South Asia,2.914,77.3
+Bangladesh,2005,South Asia,2.808,78.2
+Bangladesh,2006,South Asia,2.712,79.0
+Bangladesh,2007,South Asia,2.626,79.9
+Bangladesh,2008,South Asia,2.535,80.8
+Bangladesh,2009,South Asia,2.44,81.7
+Bangladesh,2010,South Asia,2.34,82.6
+Bangladesh,2011,South Asia,2.262,83.5
+Bangladesh,2012,South Asia,2.209,84.4
+Bangladesh,2013,South Asia,2.184,85.3
+Bangladesh,2014,South Asia,2.152,86.1
+Bangladesh,2015,South Asia,2.114,87.0
+Bangladesh,2016,South Asia,2.097,87.0
+Bangladesh,2017,South Asia,2.043,87.0
+Bangladesh,2018,South Asia,2.04,87.0
+Bangladesh,2019,South Asia,2.031,87.0
+Bangladesh,2020,South Asia,2.003,87.0
+Bangladesh,2021,South Asia,1.981,87.0
+Benin,2000,Sub-Saharan Africa,5.89,58.5
+Benin,2001,Sub-Saharan Africa,5.824,59.5
+Benin,2002,Sub-Saharan Africa,5.777,60.5
+Benin,2003,Sub-Saharan Africa,5.77,61.5
+Benin,2004,Sub-Saharan Africa,5.721,62.4
+Benin,2005,Sub-Saharan Africa,5.676,63.4
+Benin,2006,Sub-Saharan Africa,5.636,64.4
+Benin,2007,Sub-Saharan Africa,5.563,65.3
+Benin,2008,Sub-Saharan Africa,5.483,66.3
+Benin,2009,Sub-Saharan Africa,5.436,67.3
+Benin,2010,Sub-Saharan Africa,5.39,68.3
+Benin,2011,Sub-Saharan Africa,5.366,69.2
+Benin,2012,Sub-Saharan Africa,5.347,70.2
+Benin,2013,Sub-Saharan Africa,5.345,71.2
+Benin,2014,Sub-Saharan Africa,5.348,72.1
+Benin,2015,Sub-Saharan Africa,5.319,72.1
+Benin,2016,Sub-Saharan Africa,5.303,72.1
+Benin,2017,Sub-Saharan Africa,5.269,72.1
+Benin,2018,Sub-Saharan Africa,5.199,72.1
+Benin,2019,Sub-Saharan Africa,5.13,72.1
+Benin,2020,Sub-Saharan Africa,5.048,72.1
+Benin,2021,Sub-Saharan Africa,4.973,72.1
+Bhutan,2000,South Asia,3.414,79.0
+Bhutan,2001,South Asia,3.232,80.5
+Bhutan,2002,South Asia,3.078,82.0
+Bhutan,2003,South Asia,2.916,83.5
+Bhutan,2004,South Asia,2.893,85.0
+Bhutan,2005,South Asia,2.798,86.6
+Bhutan,2006,South Asia,2.669,88.1
+Bhutan,2007,South Asia,2.59,89.6
+Bhutan,2008,South Asia,2.496,91.1
+Bhutan,2009,South Asia,2.381,92.6
+Bhutan,2010,South Asia,2.296,94.1
+Bhutan,2011,South Asia,2.21,95.6
+Bhutan,2012,South Asia,2.138,97.1
+Bhutan,2013,South Asia,2.087,98.6
+Bhutan,2014,South Asia,2.027,100.0
+Bhutan,2015,South Asia,1.957,100.0
+Bhutan,2016,South Asia,1.835,100.0
+Bhutan,2017,South Asia,1.704,100.0
+Bhutan,2018,South Asia,1.569,100.0
+Bhutan,2019,South Asia,1.46,100.0
+Bhutan,2020,South Asia,1.433,100.0
+Bhutan,2021,South Asia,1.413,100.0
+Bolivia,2000,Latin America & Caribbean,3.991,55.1
+Bolivia,2001,Latin America & Caribbean,3.89,56.5
+Bolivia,2002,Latin America & Caribbean,3.802,58.0
+Bolivia,2003,Latin America & Caribbean,3.721,59.5
+Bolivia,2004,Latin America & Caribbean,3.633,60.9
+Bolivia,2005,Latin America & Caribbean,3.558,62.4
+Bolivia,2006,Latin America & Caribbean,3.533,63.9
+Bolivia,2007,Latin America & Caribbean,3.447,65.3
+Bolivia,2008,Latin America & Caribbean,3.364,66.8
+Bolivia,2009,Latin America & Caribbean,3.287,68.3
+Bolivia,2010,Latin America & Caribbean,3.213,69.7
+Bolivia,2011,Latin America & Caribbean,3.143,71.2
+Bolivia,2012,Latin America & Caribbean,3.076,72.7
+Bolivia,2013,Latin America & Caribbean,3.01,74.1
+Bolivia,2014,Latin America & Caribbean,2.947,75.6
+Bolivia,2015,Latin America & Caribbean,2.886,75.6
+Bolivia,2016,Latin America & Caribbean,2.829,75.6
+Bolivia,2017,Latin America & Caribbean,2.777,75.6
+Bolivia,2018,Latin America & Caribbean,2.73,75.6
+Bolivia,2019,Latin America & Caribbean,2.688,75.6
+Bolivia,2020,Latin America & Caribbean,2.651,75.6
+Bolivia,2021,Latin America & Caribbean,2.618,75.6
+Botswana,2000,Sub-Saharan Africa,3.312,89.2
+Botswana,2001,Sub-Saharan Africa,3.261,89.4
+Botswana,2002,Sub-Saharan Africa,3.181,89.7
+Botswana,2003,Sub-Saharan Africa,3.11,89.9
+Botswana,2004,Sub-Saharan Africa,3.073,90.2
+Botswana,2005,Sub-Saharan Africa,3.08,90.4
+Botswana,2006,Sub-Saharan Africa,3.091,90.6
+Botswana,2007,Sub-Saharan Africa,3.082,90.9
+Botswana,2008,Sub-Saharan Africa,3.066,91.1
+Botswana,2009,Sub-Saharan Africa,3.045,91.3
+Botswana,2010,Sub-Saharan Africa,3.023,91.6
+Botswana,2011,Sub-Saharan Africa,2.999,91.8
+Botswana,2012,Sub-Saharan Africa,2.981,92.0
+Botswana,2013,Sub-Saharan Africa,2.964,92.3
+Botswana,2014,Sub-Saharan Africa,2.951,92.3
+Botswana,2015,Sub-Saharan Africa,2.942,92.3
+Botswana,2016,Sub-Saharan Africa,2.93,92.3
+Botswana,2017,Sub-Saharan Africa,2.91,92.3
+Botswana,2018,Sub-Saharan Africa,2.903,92.3
+Botswana,2019,Sub-Saharan Africa,2.883,92.3
+Botswana,2020,Sub-Saharan Africa,2.836,92.3
+Botswana,2021,Sub-Saharan Africa,2.791,92.3
+Brazil,2000,Latin America & Caribbean,2.255,75.7
+Brazil,2001,Latin America & Caribbean,2.183,76.5
+Brazil,2002,Latin America & Caribbean,2.103,77.3
+Brazil,2003,Latin America & Caribbean,2.023,78.1
+Brazil,2004,Latin America & Caribbean,2.002,78.9
+Brazil,2005,Latin America & Caribbean,1.974,79.7
+Brazil,2006,Latin America & Caribbean,1.927,80.5
+Brazil,2007,Latin America & Caribbean,1.881,81.3
+Brazil,2008,Latin America & Caribbean,1.842,82.2
+Brazil,2009,Latin America & Caribbean,1.825,83.0
+Brazil,2010,Latin America & Caribbean,1.81,83.8
+Brazil,2011,Latin America & Caribbean,1.8,84.6
+Brazil,2012,Latin America & Caribbean,1.767,85.4
+Brazil,2013,Latin America & Caribbean,1.748,86.2
+Brazil,2014,Latin America & Caribbean,1.767,87.0
+Brazil,2015,Latin America & Caribbean,1.777,87.0
+Brazil,2016,Latin America & Caribbean,1.709,87.0
+Brazil,2017,Latin America & Caribbean,1.736,87.0
+Brazil,2018,Latin America & Caribbean,1.749,87.0
+Brazil,2019,Latin America & Caribbean,1.703,87.0
+Brazil,2020,Latin America & Caribbean,1.649,87.0
+Brazil,2021,Latin America & Caribbean,1.641,87.0
+Burkina Faso,2000,Sub-Saharan Africa,6.519,54.5
+Burkina Faso,2001,Sub-Saharan Africa,6.431,56.3
+Burkina Faso,2002,Sub-Saharan Africa,6.339,58.1
+Burkina Faso,2003,Sub-Saharan Africa,6.28,59.9
+Burkina Faso,2004,Sub-Saharan Africa,6.216,61.6
+Burkina Faso,2005,Sub-Saharan Africa,6.182,63.4
+Burkina Faso,2006,Sub-Saharan Africa,6.17,65.2
+Burkina Faso,2007,Sub-Saharan Africa,6.11,67.0
+Burkina Faso,2008,Sub-Saharan Africa,6.05,68.7
+Burkina Faso,2009,Sub-Saharan Africa,5.992,70.5
+Burkina Faso,2010,Sub-Saharan Africa,5.936,72.3
+Burkina Faso,2011,Sub-Saharan Africa,5.869,74.1
+Burkina Faso,2012,Sub-Saharan Africa,5.793,75.8
+Burkina Faso,2013,Sub-Saharan Africa,5.697,75.8
+Burkina Faso,2014,Sub-Saharan Africa,5.595,75.8
+Burkina Faso,2015,Sub-Saharan Africa,5.478,75.8
+Burkina Faso,2016,Sub-Saharan Africa,5.324,75.8
+Burkina Faso,2017,Sub-Saharan Africa,5.162,75.8
+Burkina Faso,2018,Sub-Saharan Africa,5.069,75.8
+Burkina Faso,2019,Sub-Saharan Africa,4.971,75.8
+Burkina Faso,2020,Sub-Saharan Africa,4.869,75.8
+Burkina Faso,2021,Sub-Saharan Africa,4.772,75.8
+Cambodia,2000,East Asia & Pacific,3.772,38.1
+Cambodia,2001,East Asia & Pacific,3.652,40.1
+Cambodia,2002,East Asia & Pacific,3.555,42.2
+Cambodia,2003,East Asia & Pacific,3.442,44.3
+Cambodia,2004,East Asia & Pacific,3.345,46.4
+Cambodia,2005,East Asia & Pacific,3.244,48.4
+Cambodia,2006,East Asia & Pacific,3.145,50.5
+Cambodia,2007,East Asia & Pacific,3.084,52.6
+Cambodia,2008,East Asia & Pacific,2.969,54.6
+Cambodia,2009,East Asia & Pacific,2.871,56.7
+Cambodia,2010,East Asia & Pacific,2.774,58.8
+Cambodia,2011,East Asia & Pacific,2.701,60.9
+Cambodia,2012,East Asia & Pacific,2.664,62.9
+Cambodia,2013,East Asia & Pacific,2.62,65.0
+Cambodia,2014,East Asia & Pacific,2.589,67.1
+Cambodia,2015,East Asia & Pacific,2.55,69.1
+Cambodia,2016,East Asia & Pacific,2.512,69.1
+Cambodia,2017,East Asia & Pacific,2.473,69.1
+Cambodia,2018,East Asia & Pacific,2.435,69.1
+Cambodia,2019,East Asia & Pacific,2.402,69.1
+Cambodia,2020,East Asia & Pacific,2.381,69.1
+Cambodia,2021,East Asia & Pacific,2.344,69.1
+Cameroon,2000,Sub-Saharan Africa,5.53,41.9
+Cameroon,2001,Sub-Saharan Africa,5.443,42.7
+Cameroon,2002,Sub-Saharan Africa,5.458,43.5
+Cameroon,2003,Sub-Saharan Africa,5.463,44.4
+Cameroon,2004,Sub-Saharan Africa,5.45,45.2
+Cameroon,2005,Sub-Saharan Africa,5.407,46.0
+Cameroon,2006,Sub-Saharan Africa,5.354,46.9
+Cameroon,2007,Sub-Saharan Africa,5.331,47.7
+Cameroon,2008,Sub-Saharan Africa,5.278,48.5
+Cameroon,2009,Sub-Saharan Africa,5.227,49.4
+Cameroon,2010,Sub-Saharan Africa,5.16,50.2
+Cameroon,2011,Sub-Saharan Africa,5.058,51.0
+Cameroon,2012,Sub-Saharan Africa,4.989,51.9
+Cameroon,2013,Sub-Saharan Africa,4.914,52.7
+Cameroon,2014,Sub-Saharan Africa,4.855,52.7
+Cameroon,2015,Sub-Saharan Africa,4.832,52.7
+Cameroon,2016,Sub-Saharan Africa,4.818,52.7
+Cameroon,2017,Sub-Saharan Africa,4.774,52.7
+Cameroon,2018,Sub-Saharan Africa,4.694,52.7
+Cameroon,2019,Sub-Saharan Africa,4.623,52.7
+Cameroon,2020,Sub-Saharan Africa,4.543,52.7
+Cameroon,2021,Sub-Saharan Africa,4.463,52.7
+Central African Republic,2000,Sub-Saharan Africa,5.915,49.6
+Central African Republic,2001,Sub-Saharan Africa,5.851,50.0
+Central African Republic,2002,Sub-Saharan Africa,5.836,50.4
+Central African Republic,2003,Sub-Saharan Africa,5.852,50.8
+Central African Republic,2004,Sub-Saharan Africa,5.827,51.2
+Central African Republic,2005,Sub-Saharan Africa,5.849,51.6
+Central African Republic,2006,Sub-Saharan Africa,5.867,52.0
+Central African Republic,2007,Sub-Saharan Africa,5.892,52.4
+Central African Republic,2008,Sub-Saharan Africa,5.914,52.8
+Central African Republic,2009,Sub-Saharan Africa,5.922,53.2
+Central African Republic,2010,Sub-Saharan Africa,5.937,53.6
+Central African Republic,2011,Sub-Saharan Africa,5.963,54.0
+Central African Republic,2012,Sub-Saharan Africa,6.006,54.4
+Central African Republic,2013,Sub-Saharan Africa,6.017,54.4
+Central African Republic,2014,Sub-Saharan Africa,6.024,54.4
+Central African Republic,2015,Sub-Saharan Africa,6.035,54.4
+Central African Republic,2016,Sub-Saharan Africa,6.04,54.4
+Central African Republic,2017,Sub-Saharan Africa,6.048,54.4
+Central African Republic,2018,Sub-Saharan Africa,6.037,54.4
+Central African Republic,2019,Sub-Saharan Africa,6.008,54.4
+Central African Republic,2020,Sub-Saharan Africa,5.985,54.4
+Central African Republic,2021,Sub-Saharan Africa,5.978,54.4
+Chad,2000,Sub-Saharan Africa,7.249,40.7
+Chad,2001,Sub-Saharan Africa,7.231,41.0
+Chad,2002,Sub-Saharan Africa,7.201,41.3
+Chad,2003,Sub-Saharan Africa,7.179,41.7
+Chad,2004,Sub-Saharan Africa,7.16,42.0
+Chad,2005,Sub-Saharan Africa,7.134,42.4
+Chad,2006,Sub-Saharan Africa,7.118,42.7
+Chad,2007,Sub-Saharan Africa,7.092,43.0
+Chad,2008,Sub-Saharan Africa,7.063,43.4
+Chad,2009,Sub-Saharan Africa,7.021,43.7
+Chad,2010,Sub-Saharan Africa,6.99,44.1
+Chad,2011,Sub-Saharan Africa,6.948,44.4
+Chad,2012,Sub-Saharan Africa,6.905,44.8
+Chad,2013,Sub-Saharan Africa,6.839,44.8
+Chad,2014,Sub-Saharan Africa,6.781,44.8
+Chad,2015,Sub-Saharan Africa,6.706,44.8
+Chad,2016,Sub-Saharan Africa,6.623,44.8
+Chad,2017,Sub-Saharan Africa,6.537,44.8
+Chad,2018,Sub-Saharan Africa,6.464,44.8
+Chad,2019,Sub-Saharan Africa,6.412,44.8
+Chad,2020,Sub-Saharan Africa,6.346,44.8
+Chad,2021,Sub-Saharan Africa,6.255,44.8
+China,2000,East Asia & Pacific,1.628,70.8
+China,2001,East Asia & Pacific,1.563,72.3
+China,2002,East Asia & Pacific,1.566,73.8
+China,2003,East Asia & Pacific,1.57,75.3
+China,2004,East Asia & Pacific,1.605,76.7
+China,2005,East Asia & Pacific,1.624,78.2
+China,2006,East Asia & Pacific,1.644,79.7
+China,2007,East Asia & Pacific,1.666,81.2
+China,2008,East Asia & Pacific,1.701,82.6
+China,2009,East Asia & Pacific,1.714,84.1
+China,2010,East Asia & Pacific,1.687,85.6
+China,2011,East Asia & Pacific,1.668,87.1
+China,2012,East Asia & Pacific,1.798,88.5
+China,2013,East Asia & Pacific,1.714,90.0
+China,2014,East Asia & Pacific,1.769,91.5
+China,2015,East Asia & Pacific,1.67,93.0
+China,2016,East Asia & Pacific,1.772,93.0
+China,2017,East Asia & Pacific,1.813,93.0
+China,2018,East Asia & Pacific,1.554,93.0
+China,2019,East Asia & Pacific,1.496,93.0
+China,2020,East Asia & Pacific,1.281,93.0
+China,2021,East Asia & Pacific,1.164,93.0
+Colombia,2000,Latin America & Caribbean,2.572,71.0
+Colombia,2001,Latin America & Caribbean,2.516,71.2
+Colombia,2002,Latin America & Caribbean,2.458,71.4
+Colombia,2003,Latin America & Caribbean,2.395,71.6
+Colombia,2004,Latin America & Caribbean,2.33,71.8
+Colombia,2005,Latin America & Caribbean,2.263,72.1
+Colombia,2006,Latin America & Caribbean,2.198,72.3
+Colombia,2007,Latin America & Caribbean,2.137,72.5
+Colombia,2008,Latin America & Caribbean,2.081,72.7
+Colombia,2009,Latin America & Caribbean,2.033,72.9
+Colombia,2010,Latin America & Caribbean,1.992,73.2
+Colombia,2011,Latin America & Caribbean,1.958,73.4
+Colombia,2012,Latin America & Caribbean,1.93,73.6
+Colombia,2013,Latin America & Caribbean,1.905,73.8
+Colombia,2014,Latin America & Caribbean,1.883,73.8
+Colombia,2015,Latin America & Caribbean,1.863,73.8
+Colombia,2016,Latin America & Caribbean,1.843,73.8
+Colombia,2017,Latin America & Caribbean,1.818,73.8
+Colombia,2018,Latin America & Caribbean,1.787,73.8
+Colombia,2019,Latin America & Caribbean,1.765,73.8
+Colombia,2020,Latin America & Caribbean,1.737,73.8
+Colombia,2021,Latin America & Caribbean,1.717,73.8
+"Congo, Dem. Rep.",2000,Sub-Saharan Africa,6.718,26.8
+"Congo, Dem. Rep.",2001,Sub-Saharan Africa,6.7,27.1
+"Congo, Dem. Rep.",2002,Sub-Saharan Africa,6.672,27.4
+"Congo, Dem. Rep.",2003,Sub-Saharan Africa,6.64,27.7
+"Congo, Dem. Rep.",2004,Sub-Saharan Africa,6.618,28.0
+"Congo, Dem. Rep.",2005,Sub-Saharan Africa,6.597,28.2
+"Congo, Dem. Rep.",2006,Sub-Saharan Africa,6.59,28.5
+"Congo, Dem. Rep.",2007,Sub-Saharan Africa,6.582,28.8
+"Congo, Dem. Rep.",2008,Sub-Saharan Africa,6.578,29.1
+"Congo, Dem. Rep.",2009,Sub-Saharan Africa,6.591,29.4
+"Congo, Dem. Rep.",2010,Sub-Saharan Africa,6.587,29.7
+"Congo, Dem. Rep.",2011,Sub-Saharan Africa,6.582,30.0
+"Congo, Dem. Rep.",2012,Sub-Saharan Africa,6.559,30.3
+"Congo, Dem. Rep.",2013,Sub-Saharan Africa,6.527,30.6
+"Congo, Dem. Rep.",2014,Sub-Saharan Africa,6.483,30.9
+"Congo, Dem. Rep.",2015,Sub-Saharan Africa,6.437,31.2
+"Congo, Dem. Rep.",2016,Sub-Saharan Africa,6.392,31.2
+"Congo, Dem. Rep.",2017,Sub-Saharan Africa,6.349,31.2
+"Congo, Dem. Rep.",2018,Sub-Saharan Africa,6.302,31.2
+"Congo, Dem. Rep.",2019,Sub-Saharan Africa,6.253,31.2
+"Congo, Dem. Rep.",2020,Sub-Saharan Africa,6.206,31.2
+"Congo, Dem. Rep.",2021,Sub-Saharan Africa,6.156,31.2
+Cuba,2000,Latin America & Caribbean,1.581,77.3
+Cuba,2001,Latin America & Caribbean,1.563,78.1
+Cuba,2002,Latin America & Caribbean,1.608,79.0
+Cuba,2003,Latin America & Caribbean,1.589,79.8
+Cuba,2004,Latin America & Caribbean,1.517,80.6
+Cuba,2005,Latin America & Caribbean,1.468,81.5
+Cuba,2006,Latin America & Caribbean,1.39,82.3
+Cuba,2007,Latin America & Caribbean,1.428,83.1
+Cuba,2008,Latin America & Caribbean,1.575,84.0
+Cuba,2009,Latin America & Caribbean,1.688,84.8
+Cuba,2010,Latin America & Caribbean,1.693,85.6
+Cuba,2011,Latin America & Caribbean,1.756,86.5
+Cuba,2012,Latin America & Caribbean,1.681,87.3
+Cuba,2013,Latin America & Caribbean,1.688,88.1
+Cuba,2014,Latin America & Caribbean,1.663,89.0
+Cuba,2015,Latin America & Caribbean,1.694,89.8
+Cuba,2016,Latin America & Caribbean,1.609,89.8
+Cuba,2017,Latin America & Caribbean,1.593,89.8
+Cuba,2018,Latin America & Caribbean,1.631,89.8
+Cuba,2019,Latin America & Caribbean,1.551,89.8
+Cuba,2020,Latin America & Caribbean,1.5,89.8
+Cuba,2021,Latin America & Caribbean,1.442,89.8
+Dominican Republic,2000,Latin America & Caribbean,2.859,78.2
+Dominican Republic,2001,Latin America & Caribbean,2.812,78.5
+Dominican Republic,2002,Latin America & Caribbean,2.774,78.7
+Dominican Republic,2003,Latin America & Caribbean,2.721,78.9
+Dominican Republic,2004,Latin America & Caribbean,2.664,79.2
+Dominican Republic,2005,Latin America & Caribbean,2.605,79.4
+Dominican Republic,2006,Latin America & Caribbean,2.533,79.7
+Dominican Republic,2007,Latin America & Caribbean,2.51,79.9
+Dominican Republic,2008,Latin America & Caribbean,2.533,80.2
+Dominican Republic,2009,Latin America & Caribbean,2.556,80.4
+Dominican Republic,2010,Latin America & Caribbean,2.538,80.7
+Dominican Republic,2011,Latin America & Caribbean,2.513,80.9
+Dominican Republic,2012,Latin America & Caribbean,2.485,81.2
+Dominican Republic,2013,Latin America & Caribbean,2.466,81.4
+Dominican Republic,2014,Latin America & Caribbean,2.445,81.7
+Dominican Republic,2015,Latin America & Caribbean,2.43,81.9
+Dominican Republic,2016,Latin America & Caribbean,2.406,81.9
+Dominican Republic,2017,Latin America & Caribbean,2.39,81.9
+Dominican Republic,2018,Latin America & Caribbean,2.381,81.9
+Dominican Republic,2019,Latin America & Caribbean,2.344,81.9
+Dominican Republic,2020,Latin America & Caribbean,2.303,81.9
+Dominican Republic,2021,Latin America & Caribbean,2.273,81.9
+Ecuador,2000,Latin America & Caribbean,3.102,67.3
+Ecuador,2001,Latin America & Caribbean,3.037,67.8
+Ecuador,2002,Latin America & Caribbean,2.972,68.4
+Ecuador,2003,Latin America & Caribbean,2.911,69.0
+Ecuador,2004,Latin America & Caribbean,2.853,69.6
+Ecuador,2005,Latin America & Caribbean,2.8,70.2
+Ecuador,2006,Latin America & Caribbean,2.753,70.8
+Ecuador,2007,Latin America & Caribbean,2.711,71.4
+Ecuador,2008,Latin America & Caribbean,2.675,72.0
+Ecuador,2009,Latin America & Caribbean,2.643,72.6
+Ecuador,2010,Latin America & Caribbean,2.615,73.2
+Ecuador,2011,Latin America & Caribbean,2.596,73.7
+Ecuador,2012,Latin America & Caribbean,2.517,74.3
+Ecuador,2013,Latin America & Caribbean,2.419,74.9
+Ecuador,2014,Latin America & Caribbean,2.335,75.5
+Ecuador,2015,Latin America & Caribbean,2.26,75.5
+Ecuador,2016,Latin America & Caribbean,2.201,75.5
+Ecuador,2017,Latin America & Caribbean,2.174,75.5
+Ecuador,2018,Latin America & Caribbean,2.133,75.5
+Ecuador,2019,Latin America & Caribbean,2.088,75.5
+Ecuador,2020,Latin America & Caribbean,2.051,75.5
+Ecuador,2021,Latin America & Caribbean,2.026,75.5
+El Salvador,2000,Latin America & Caribbean,3.14,65.0
+El Salvador,2001,Latin America & Caribbean,2.977,66.4
+El Salvador,2002,Latin America & Caribbean,2.809,67.9
+El Salvador,2003,Latin America & Caribbean,2.675,69.3
+El Salvador,2004,Latin America & Caribbean,2.546,70.7
+El Salvador,2005,Latin America & Caribbean,2.455,72.2
+El Salvador,2006,Latin America & Caribbean,2.393,73.6
+El Salvador,2007,Latin America & Caribbean,2.335,75.0
+El Salvador,2008,Latin America & Caribbean,2.291,76.5
+El Salvador,2009,Latin America & Caribbean,2.261,77.9
+El Salvador,2010,Latin America & Caribbean,2.239,79.4
+El Salvador,2011,Latin America & Caribbean,2.224,80.8
+El Salvador,2012,Latin America & Caribbean,2.187,82.2
+El Salvador,2013,Latin America & Caribbean,2.154,83.7
+El Salvador,2014,Latin America & Caribbean,2.126,85.1
+El Salvador,2015,Latin America & Caribbean,2.067,86.5
+El Salvador,2016,Latin America & Caribbean,1.965,86.5
+El Salvador,2017,Latin America & Caribbean,1.896,86.5
+El Salvador,2018,Latin America & Caribbean,1.849,86.5
+El Salvador,2019,Latin America & Caribbean,1.838,86.5
+El Salvador,2020,Latin America & Caribbean,1.819,86.5
+El Salvador,2021,Latin America & Caribbean,1.803,86.5
+Eritrea,2000,Sub-Saharan Africa,5.397,47.4
+Eritrea,2001,Sub-Saharan Africa,5.306,47.9
+Eritrea,2002,Sub-Saharan Africa,5.233,48.4
+Eritrea,2003,Sub-Saharan Africa,5.143,48.9
+Eritrea,2004,Sub-Saharan Africa,5.036,49.3
+Eritrea,2005,Sub-Saharan Africa,4.934,49.8
+Eritrea,2006,Sub-Saharan Africa,4.881,50.3
+Eritrea,2007,Sub-Saharan Africa,4.812,50.8
+Eritrea,2008,Sub-Saharan Africa,4.737,51.3
+Eritrea,2009,Sub-Saharan Africa,4.656,51.8
+Eritrea,2010,Sub-Saharan Africa,4.571,52.3
+Eritrea,2011,Sub-Saharan Africa,4.486,52.8
+Eritrea,2012,Sub-Saharan Africa,4.407,53.3
+Eritrea,2013,Sub-Saharan Africa,4.335,53.3
+Eritrea,2014,Sub-Saharan Africa,4.273,53.3
+Eritrea,2015,Sub-Saharan Africa,4.217,53.3
+Eritrea,2016,Sub-Saharan Africa,4.164,53.3
+Eritrea,2017,Sub-Saharan Africa,4.112,53.3
+Eritrea,2018,Sub-Saharan Africa,4.056,53.3
+Eritrea,2019,Sub-Saharan Africa,3.997,53.3
+Eritrea,2020,Sub-Saharan Africa,3.933,53.3
+Eritrea,2021,Sub-Saharan Africa,3.867,53.3
+Eswatini,2000,Sub-Saharan Africa,3.996,41.1
+Eswatini,2001,Sub-Saharan Africa,3.9,43.4
+Eswatini,2002,Sub-Saharan Africa,3.805,45.7
+Eswatini,2003,Sub-Saharan Africa,3.757,48.0
+Eswatini,2004,Sub-Saharan Africa,3.731,50.4
+Eswatini,2005,Sub-Saharan Africa,3.682,52.7
+Eswatini,2006,Sub-Saharan Africa,3.617,55.0
+Eswatini,2007,Sub-Saharan Africa,3.564,57.3
+Eswatini,2008,Sub-Saharan Africa,3.536,59.6
+Eswatini,2009,Sub-Saharan Africa,3.473,61.9
+Eswatini,2010,Sub-Saharan Africa,3.356,64.2
+Eswatini,2011,Sub-Saharan Africa,3.299,66.5
+Eswatini,2012,Sub-Saharan Africa,3.255,68.9
+Eswatini,2013,Sub-Saharan Africa,3.226,68.9
+Eswatini,2014,Sub-Saharan Africa,3.174,68.9
+Eswatini,2015,Sub-Saharan Africa,3.117,68.9
+Eswatini,2016,Sub-Saharan Africa,3.068,68.9
+Eswatini,2017,Sub-Saharan Africa,3.015,68.9
+Eswatini,2018,Sub-Saharan Africa,2.962,68.9
+Eswatini,2019,Sub-Saharan Africa,2.921,68.9
+Eswatini,2020,Sub-Saharan Africa,2.89,68.9
+Eswatini,2021,Sub-Saharan Africa,2.839,68.9
+Ethiopia,2000,Sub-Saharan Africa,6.56,18.9
+Ethiopia,2001,Sub-Saharan Africa,6.463,20.9
+Ethiopia,2002,Sub-Saharan Africa,6.374,22.8
+Ethiopia,2003,Sub-Saharan Africa,6.24,24.8
+Ethiopia,2004,Sub-Saharan Africa,6.107,26.8
+Ethiopia,2005,Sub-Saharan Africa,5.973,28.8
+Ethiopia,2006,Sub-Saharan Africa,5.853,30.8
+Ethiopia,2007,Sub-Saharan Africa,5.74,32.8
+Ethiopia,2008,Sub-Saharan Africa,5.571,34.8
+Ethiopia,2009,Sub-Saharan Africa,5.39,36.7
+Ethiopia,2010,Sub-Saharan Africa,5.217,38.7
+Ethiopia,2011,Sub-Saharan Africa,5.05,40.7
+Ethiopia,2012,Sub-Saharan Africa,4.883,42.7
+Ethiopia,2013,Sub-Saharan Africa,4.724,44.7
+Ethiopia,2014,Sub-Saharan Africa,4.609,46.7
+Ethiopia,2015,Sub-Saharan Africa,4.531,48.6
+Ethiopia,2016,Sub-Saharan Africa,4.469,48.6
+Ethiopia,2017,Sub-Saharan Africa,4.39,48.6
+Ethiopia,2018,Sub-Saharan Africa,4.343,48.6
+Ethiopia,2019,Sub-Saharan Africa,4.323,48.6
+Ethiopia,2020,Sub-Saharan Africa,4.243,48.6
+Ethiopia,2021,Sub-Saharan Africa,4.159,48.6
+Georgia,2000,Europe & Central Asia,1.601,80.6
+Georgia,2001,Europe & Central Asia,1.57,81.9
+Georgia,2002,Europe & Central Asia,1.563,83.3
+Georgia,2003,Europe & Central Asia,1.55,84.6
+Georgia,2004,Europe & Central Asia,1.592,85.9
+Georgia,2005,Europe & Central Asia,1.61,87.2
+Georgia,2006,Europe & Central Asia,1.622,88.5
+Georgia,2007,Europe & Central Asia,1.674,89.8
+Georgia,2008,Europe & Central Asia,1.762,91.2
+Georgia,2009,Europe & Central Asia,1.871,92.5
+Georgia,2010,Europe & Central Asia,1.919,93.8
+Georgia,2011,Europe & Central Asia,1.918,95.1
+Georgia,2012,Europe & Central Asia,1.938,96.4
+Georgia,2013,Europe & Central Asia,2.017,97.8
+Georgia,2014,Europe & Central Asia,2.115,99.1
+Georgia,2015,Europe & Central Asia,2.204,100.0
+Georgia,2016,Europe & Central Asia,2.198,100.0
+Georgia,2017,Europe & Central Asia,2.144,100.0
+Georgia,2018,Europe & Central Asia,2.114,100.0
+Georgia,2019,Europe & Central Asia,2.011,100.0
+Georgia,2020,Europe & Central Asia,1.971,100.0
+Georgia,2021,Europe & Central Asia,2.081,100.0
+Ghana,2000,Sub-Saharan Africa,4.854,57.1
+Ghana,2001,Sub-Saharan Africa,4.794,58.9
+Ghana,2002,Sub-Saharan Africa,4.723,60.7
+Ghana,2003,Sub-Saharan Africa,4.627,62.5
+Ghana,2004,Sub-Saharan Africa,4.531,64.3
+Ghana,2005,Sub-Saharan Africa,4.538,66.1
+Ghana,2006,Sub-Saharan Africa,4.41,67.9
+Ghana,2007,Sub-Saharan Africa,4.307,69.7
+Ghana,2008,Sub-Saharan Africa,4.25,71.5
+Ghana,2009,Sub-Saharan Africa,4.214,73.3
+Ghana,2010,Sub-Saharan Africa,4.206,75.1
+Ghana,2011,Sub-Saharan Africa,4.193,76.8
+Ghana,2012,Sub-Saharan Africa,4.183,78.6
+Ghana,2013,Sub-Saharan Africa,4.136,80.4
+Ghana,2014,Sub-Saharan Africa,4.05,82.2
+Ghana,2015,Sub-Saharan Africa,4.05,84.0
+Ghana,2016,Sub-Saharan Africa,3.911,84.0
+Ghana,2017,Sub-Saharan Africa,3.713,84.0
+Ghana,2018,Sub-Saharan Africa,3.731,84.0
+Ghana,2019,Sub-Saharan Africa,3.683,84.0
+Ghana,2020,Sub-Saharan Africa,3.623,84.0
+Ghana,2021,Sub-Saharan Africa,3.563,84.0
+Guatemala,2000,Latin America & Caribbean,4.583,75.9
+Guatemala,2001,Latin America & Caribbean,4.502,76.7
+Guatemala,2002,Latin America & Caribbean,4.371,77.6
+Guatemala,2003,Latin America & Caribbean,4.25,78.4
+Guatemala,2004,Latin America & Caribbean,4.134,79.2
+Guatemala,2005,Latin America & Caribbean,3.974,80.1
+Guatemala,2006,Latin America & Caribbean,3.845,80.9
+Guatemala,2007,Latin America & Caribbean,3.716,81.8
+Guatemala,2008,Latin America & Caribbean,3.571,82.6
+Guatemala,2009,Latin America & Caribbean,3.465,83.5
+Guatemala,2010,Latin America & Caribbean,3.375,84.3
+Guatemala,2011,Latin America & Caribbean,3.292,85.1
+Guatemala,2012,Latin America & Caribbean,3.219,86.0
+Guatemala,2013,Latin America & Caribbean,3.151,86.8
+Guatemala,2014,Latin America & Caribbean,3.088,86.8
+Guatemala,2015,Latin America & Caribbean,3.029,86.8
+Guatemala,2016,Latin America & Caribbean,2.973,86.8
+Guatemala,2017,Latin America & Caribbean,2.857,86.8
+Guatemala,2018,Latin America & Caribbean,2.743,86.8
+Guatemala,2019,Latin America & Caribbean,2.61,86.8
+Guatemala,2020,Latin America & Caribbean,2.484,86.8
+Guatemala,2021,Latin America & Caribbean,2.395,86.8
+Guinea,2000,Sub-Saharan Africa,5.936,50.9
+Guinea,2001,Sub-Saharan Africa,5.85,52.1
+Guinea,2002,Sub-Saharan Africa,5.793,53.3
+Guinea,2003,Sub-Saharan Africa,5.737,54.4
+Guinea,2004,Sub-Saharan Africa,5.719,55.6
+Guinea,2005,Sub-Saharan Africa,5.698,56.8
+Guinea,2006,Sub-Saharan Africa,5.659,58.0
+Guinea,2007,Sub-Saharan Africa,5.617,59.2
+Guinea,2008,Sub-Saharan Africa,5.558,60.3
+Guinea,2009,Sub-Saharan Africa,5.508,61.5
+Guinea,2010,Sub-Saharan Africa,5.397,62.7
+Guinea,2011,Sub-Saharan Africa,5.296,63.9
+Guinea,2012,Sub-Saharan Africa,5.195,65.0
+Guinea,2013,Sub-Saharan Africa,5.116,66.2
+Guinea,2014,Sub-Saharan Africa,5.049,67.4
+Guinea,2015,Sub-Saharan Africa,5.022,67.4
+Guinea,2016,Sub-Saharan Africa,4.926,67.4
+Guinea,2017,Sub-Saharan Africa,4.789,67.4
+Guinea,2018,Sub-Saharan Africa,4.669,67.4
+Guinea,2019,Sub-Saharan Africa,4.576,67.4
+Guinea,2020,Sub-Saharan Africa,4.489,67.4
+Guinea,2021,Sub-Saharan Africa,4.399,67.4
+Haiti,2000,Latin America & Caribbean,4.39,49.3
+Haiti,2001,Latin America & Caribbean,4.248,49.2
+Haiti,2002,Latin America & Caribbean,4.125,49.0
+Haiti,2003,Latin America & Caribbean,4.038,48.9
+Haiti,2004,Latin America & Caribbean,3.939,48.8
+Haiti,2005,Latin America & Caribbean,3.833,48.7
+Haiti,2006,Latin America & Caribbean,3.735,48.6
+Haiti,2007,Latin America & Caribbean,3.643,48.4
+Haiti,2008,Latin America & Caribbean,3.567,48.3
+Haiti,2009,Latin America & Caribbean,3.508,48.2
+Haiti,2010,Latin America & Caribbean,3.47,48.1
+Haiti,2011,Latin America & Caribbean,3.411,48.0
+Haiti,2012,Latin America & Caribbean,3.302,47.9
+Haiti,2013,Latin America & Caribbean,3.216,47.7
+Haiti,2014,Latin America & Caribbean,3.157,47.6
+Haiti,2015,Latin America & Caribbean,3.108,47.6
+Haiti,2016,Latin America & Caribbean,3.062,47.6
+Haiti,2017,Latin America & Caribbean,3.016,47.6
+Haiti,2018,Latin America & Caribbean,2.959,47.6
+Haiti,2019,Latin America & Caribbean,2.919,47.6
+Haiti,2020,Latin America & Caribbean,2.869,47.6
+Haiti,2021,Latin America & Caribbean,2.814,47.6
+Honduras,2000,Latin America & Caribbean,4.237,69.5
+Honduras,2001,Latin America & Caribbean,4.098,70.4
+Honduras,2002,Latin America & Caribbean,3.956,71.4
+Honduras,2003,Latin America & Caribbean,3.815,72.3
+Honduras,2004,Latin America & Caribbean,3.677,73.3
+Honduras,2005,Latin America & Caribbean,3.545,74.2
+Honduras,2006,Latin America & Caribbean,3.419,75.2
+Honduras,2007,Latin America & Caribbean,3.296,76.1
+Honduras,2008,Latin America & Caribbean,3.177,77.1
+Honduras,2009,Latin America & Caribbean,3.063,78.0
+Honduras,2010,Latin America & Caribbean,2.957,79.0
+Honduras,2011,Latin America & Caribbean,2.86,79.9
+Honduras,2012,Latin America & Caribbean,2.774,80.9
+Honduras,2013,Latin America & Caribbean,2.699,81.9
+Honduras,2014,Latin America & Caribbean,2.635,82.8
+Honduras,2015,Latin America & Caribbean,2.581,83.8
+Honduras,2016,Latin America & Caribbean,2.536,83.8
+Honduras,2017,Latin America & Caribbean,2.496,83.8
+Honduras,2018,Latin America & Caribbean,2.46,83.8
+Honduras,2019,Latin America & Caribbean,2.427,83.8
+Honduras,2020,Latin America & Caribbean,2.394,83.8
+Honduras,2021,Latin America & Caribbean,2.363,83.8
+India,2000,South Asia,3.35,76.1
+India,2001,South Asia,3.303,77.2
+India,2002,South Asia,3.217,78.4
+India,2003,South Asia,3.122,79.6
+India,2004,South Asia,3.046,80.8
+India,2005,South Asia,2.958,82.0
+India,2006,South Asia,2.864,83.2
+India,2007,South Asia,2.784,84.4
+India,2008,South Asia,2.718,85.5
+India,2009,South Asia,2.673,86.7
+India,2010,South Asia,2.603,87.9
+India,2011,South Asia,2.536,89.1
+India,2012,South Asia,2.467,90.3
+India,2013,South Asia,2.406,91.5
+India,2014,South Asia,2.306,92.6
+India,2015,South Asia,2.287,92.6
+India,2016,South Asia,2.273,92.6
+India,2017,South Asia,2.2,92.6
+India,2018,South Asia,2.177,92.6
+India,2019,South Asia,2.109,92.6
+India,2020,South Asia,2.051,92.6
+India,2021,South Asia,2.031,92.6
+Indonesia,2000,East Asia & Pacific,2.536,68.2
+Indonesia,2001,East Asia & Pacific,2.497,69.0
+Indonesia,2002,East Asia & Pacific,2.456,69.7
+Indonesia,2003,East Asia & Pacific,2.428,70.5
+Indonesia,2004,East Asia & Pacific,2.418,71.2
+Indonesia,2005,East Asia & Pacific,2.433,72.0
+Indonesia,2006,East Asia & Pacific,2.453,72.7
+Indonesia,2007,East Asia & Pacific,2.491,73.5
+Indonesia,2008,East Asia & Pacific,2.479,74.2
+Indonesia,2009,East Asia & Pacific,2.459,75.0
+Indonesia,2010,East Asia & Pacific,2.452,75.7
+Indonesia,2011,East Asia & Pacific,2.499,76.5
+Indonesia,2012,East Asia & Pacific,2.49,77.2
+Indonesia,2013,East Asia & Pacific,2.427,78.0
+Indonesia,2014,East Asia & Pacific,2.389,78.7
+Indonesia,2015,East Asia & Pacific,2.345,79.5
+Indonesia,2016,East Asia & Pacific,2.309,79.5
+Indonesia,2017,East Asia & Pacific,2.262,79.5
+Indonesia,2018,East Asia & Pacific,2.234,79.5
+Indonesia,2019,East Asia & Pacific,2.215,79.5
+Indonesia,2020,East Asia & Pacific,2.194,79.5
+Indonesia,2021,East Asia & Pacific,2.175,79.5
+"Iran, Islamic Rep.",2000,Middle East & North Africa,2.016,86.8
+"Iran, Islamic Rep.",2001,Middle East & North Africa,1.94,87.2
+"Iran, Islamic Rep.",2002,Middle East & North Africa,1.865,87.6
+"Iran, Islamic Rep.",2003,Middle East & North Africa,1.824,88.0
+"Iran, Islamic Rep.",2004,Middle East & North Africa,1.796,88.4
+"Iran, Islamic Rep.",2005,Middle East & North Africa,1.775,88.8
+"Iran, Islamic Rep.",2006,Middle East & North Africa,1.771,89.2
+"Iran, Islamic Rep.",2007,Middle East & North Africa,1.768,89.6
+"Iran, Islamic Rep.",2008,Middle East & North Africa,1.767,90.1
+"Iran, Islamic Rep.",2009,Middle East & North Africa,1.766,90.5
+"Iran, Islamic Rep.",2010,Middle East & North Africa,1.768,90.9
+"Iran, Islamic Rep.",2011,Middle East & North Africa,1.8,91.3
+"Iran, Islamic Rep.",2012,Middle East & North Africa,1.886,91.7
+"Iran, Islamic Rep.",2013,Middle East & North Africa,1.961,92.1
+"Iran, Islamic Rep.",2014,Middle East & North Africa,2.036,92.1
+"Iran, Islamic Rep.",2015,Middle East & North Africa,2.053,92.1
+"Iran, Islamic Rep.",2016,Middle East & North Africa,2.07,92.1
+"Iran, Islamic Rep.",2017,Middle East & North Africa,2.074,92.1
+"Iran, Islamic Rep.",2018,Middle East & North Africa,1.968,92.1
+"Iran, Islamic Rep.",2019,Middle East & North Africa,1.77,92.1
+"Iran, Islamic Rep.",2020,Middle East & North Africa,1.708,92.1
+"Iran, Islamic Rep.",2021,Middle East & North Africa,1.692,92.1
+Iraq,2000,Middle East & North Africa,4.948,48.9
+Iraq,2001,Middle East & North Africa,4.837,50.6
+Iraq,2002,Middle East & North Africa,4.706,52.2
+Iraq,2003,Middle East & North Africa,4.615,53.8
+Iraq,2004,Middle East & North Africa,4.575,55.5
+Iraq,2005,Middle East & North Africa,4.475,57.1
+Iraq,2006,Middle East & North Africa,4.436,58.7
+Iraq,2007,Middle East & North Africa,4.371,60.3
+Iraq,2008,Middle East & North Africa,4.342,62.0
+Iraq,2009,Middle East & North Africa,4.362,63.6
+Iraq,2010,Middle East & North Africa,4.429,65.2
+Iraq,2011,Middle East & North Africa,4.536,66.9
+Iraq,2012,Middle East & North Africa,4.477,68.5
+Iraq,2013,Middle East & North Africa,4.378,70.1
+Iraq,2014,Middle East & North Africa,4.283,70.1
+Iraq,2015,Middle East & North Africa,4.09,70.1
+Iraq,2016,Middle East & North Africa,3.9,70.1
+Iraq,2017,Middle East & North Africa,3.73,70.1
+Iraq,2018,Middle East & North Africa,3.659,70.1
+Iraq,2019,Middle East & North Africa,3.604,70.1
+Iraq,2020,Middle East & North Africa,3.551,70.1
+Iraq,2021,Middle East & North Africa,3.496,70.1
+Jordan,2000,Middle East & North Africa,3.921,91.0
+Jordan,2001,Middle East & North Africa,3.853,91.1
+Jordan,2002,Middle East & North Africa,3.832,91.2
+Jordan,2003,Middle East & North Africa,3.838,91.3
+Jordan,2004,Middle East & North Africa,3.801,91.4
+Jordan,2005,Middle East & North Africa,3.779,91.5
+Jordan,2006,Middle East & North Africa,3.802,91.6
+Jordan,2007,Middle East & North Africa,3.847,91.7
+Jordan,2008,Middle East & North Africa,3.892,91.7
+Jordan,2009,Middle East & North Africa,3.842,91.8
+Jordan,2010,Middle East & North Africa,3.778,91.9
+Jordan,2011,Middle East & North Africa,3.681,92.0
+Jordan,2012,Middle East & North Africa,3.559,92.1
+Jordan,2013,Middle East & North Africa,3.436,92.2
+Jordan,2014,Middle East & North Africa,3.31,92.3
+Jordan,2015,Middle East & North Africa,3.175,92.3
+Jordan,2016,Middle East & North Africa,3.077,92.3
+Jordan,2017,Middle East & North Africa,3.027,92.3
+Jordan,2018,Middle East & North Africa,2.973,92.3
+Jordan,2019,Middle East & North Africa,2.918,92.3
+Jordan,2020,Middle East & North Africa,2.873,92.3
+Jordan,2021,Middle East & North Africa,2.83,92.3
+Kazakhstan,2000,Europe & Central Asia,1.8,88.5
+Kazakhstan,2001,Europe & Central Asia,1.9,88.3
+Kazakhstan,2002,Europe & Central Asia,2.0,88.1
+Kazakhstan,2003,Europe & Central Asia,2.03,87.8
+Kazakhstan,2004,Europe & Central Asia,2.21,87.6
+Kazakhstan,2005,Europe & Central Asia,2.22,87.4
+Kazakhstan,2006,Europe & Central Asia,2.36,87.2
+Kazakhstan,2007,Europe & Central Asia,2.47,87.0
+Kazakhstan,2008,Europe & Central Asia,2.68,86.8
+Kazakhstan,2009,Europe & Central Asia,2.55,86.6
+Kazakhstan,2010,Europe & Central Asia,2.59,86.4
+Kazakhstan,2011,Europe & Central Asia,2.59,86.2
+Kazakhstan,2012,Europe & Central Asia,2.62,86.0
+Kazakhstan,2013,Europe & Central Asia,2.64,85.8
+Kazakhstan,2014,Europe & Central Asia,2.73,85.6
+Kazakhstan,2015,Europe & Central Asia,2.74,85.6
+Kazakhstan,2016,Europe & Central Asia,2.77,85.6
+Kazakhstan,2017,Europe & Central Asia,2.75,85.6
+Kazakhstan,2018,Europe & Central Asia,2.84,85.6
+Kazakhstan,2019,Europe & Central Asia,2.9,85.6
+Kazakhstan,2020,Europe & Central Asia,3.13,85.6
+Kazakhstan,2021,Europe & Central Asia,3.32,85.6
+Kenya,2000,Sub-Saharan Africa,5.137,42.9
+Kenya,2001,Sub-Saharan Africa,5.091,43.9
+Kenya,2002,Sub-Saharan Africa,5.016,44.9
+Kenya,2003,Sub-Saharan Africa,4.907,45.9
+Kenya,2004,Sub-Saharan Africa,4.83,46.9
+Kenya,2005,Sub-Saharan Africa,4.784,47.9
+Kenya,2006,Sub-Saharan Africa,4.748,48.9
+Kenya,2007,Sub-Saharan Africa,4.719,49.9
+Kenya,2008,Sub-Saharan Africa,4.646,50.9
+Kenya,2009,Sub-Saharan Africa,4.514,51.9
+Kenya,2010,Sub-Saharan Africa,4.367,52.9
+Kenya,2011,Sub-Saharan Africa,4.219,53.9
+Kenya,2012,Sub-Saharan Africa,4.088,54.8
+Kenya,2013,Sub-Saharan Africa,3.952,55.8
+Kenya,2014,Sub-Saharan Africa,3.844,56.8
+Kenya,2015,Sub-Saharan Africa,3.8,56.8
+Kenya,2016,Sub-Saharan Africa,3.724,56.8
+Kenya,2017,Sub-Saharan Africa,3.643,56.8
+Kenya,2018,Sub-Saharan Africa,3.58,56.8
+Kenya,2019,Sub-Saharan Africa,3.469,56.8
+Kenya,2020,Sub-Saharan Africa,3.397,56.8
+Kenya,2021,Sub-Saharan Africa,3.335,56.8
+Kyrgyz Republic,2000,Europe & Central Asia,2.4,68.8
+Kyrgyz Republic,2001,Europe & Central Asia,2.4,69.9
+Kyrgyz Republic,2002,Europe & Central Asia,2.4,71.1
+Kyrgyz Republic,2003,Europe & Central Asia,2.5,72.3
+Kyrgyz Republic,2004,Europe & Central Asia,2.6,73.4
+Kyrgyz Republic,2005,Europe & Central Asia,2.5,74.6
+Kyrgyz Republic,2006,Europe & Central Asia,2.7,75.8
+Kyrgyz Republic,2007,Europe & Central Asia,2.7,76.9
+Kyrgyz Republic,2008,Europe & Central Asia,2.8,78.1
+Kyrgyz Republic,2009,Europe & Central Asia,2.9,79.2
+Kyrgyz Republic,2010,Europe & Central Asia,3.1,80.4
+Kyrgyz Republic,2011,Europe & Central Asia,3.1,81.6
+Kyrgyz Republic,2012,Europe & Central Asia,3.2,82.7
+Kyrgyz Republic,2013,Europe & Central Asia,3.1,83.9
+Kyrgyz Republic,2014,Europe & Central Asia,3.2,85.1
+Kyrgyz Republic,2015,Europe & Central Asia,3.2,86.2
+Kyrgyz Republic,2016,Europe & Central Asia,3.1,86.2
+Kyrgyz Republic,2017,Europe & Central Asia,3.0,86.2
+Kyrgyz Republic,2018,Europe & Central Asia,3.3,86.2
+Kyrgyz Republic,2019,Europe & Central Asia,3.3,86.2
+Kyrgyz Republic,2020,Europe & Central Asia,3.0,86.2
+Kyrgyz Republic,2021,Europe & Central Asia,2.89,86.2
+Lao PDR,2000,East Asia & Pacific,4.4,37.9
+Lao PDR,2001,East Asia & Pacific,4.209,40.2
+Lao PDR,2002,East Asia & Pacific,4.037,42.4
+Lao PDR,2003,East Asia & Pacific,3.911,44.7
+Lao PDR,2004,East Asia & Pacific,3.808,46.9
+Lao PDR,2005,East Asia & Pacific,3.673,49.2
+Lao PDR,2006,East Asia & Pacific,3.597,51.4
+Lao PDR,2007,East Asia & Pacific,3.494,53.7
+Lao PDR,2008,East Asia & Pacific,3.375,55.9
+Lao PDR,2009,East Asia & Pacific,3.264,58.1
+Lao PDR,2010,East Asia & Pacific,3.145,60.4
+Lao PDR,2011,East Asia & Pacific,3.049,62.6
+Lao PDR,2012,East Asia & Pacific,2.953,64.9
+Lao PDR,2013,East Asia & Pacific,2.872,67.1
+Lao PDR,2014,East Asia & Pacific,2.802,69.4
+Lao PDR,2015,East Asia & Pacific,2.766,69.4
+Lao PDR,2016,East Asia & Pacific,2.722,69.4
+Lao PDR,2017,East Asia & Pacific,2.671,69.4
+Lao PDR,2018,East Asia & Pacific,2.619,69.4
+Lao PDR,2019,East Asia & Pacific,2.571,69.4
+Lao PDR,2020,East Asia & Pacific,2.541,69.4
+Lao PDR,2021,East Asia & Pacific,2.496,69.4
+Lesotho,2000,Sub-Saharan Africa,3.658,75.5
+Lesotho,2001,Sub-Saharan Africa,3.657,75.6
+Lesotho,2002,Sub-Saharan Africa,3.677,75.7
+Lesotho,2003,Sub-Saharan Africa,3.635,75.8
+Lesotho,2004,Sub-Saharan Africa,3.519,75.9
+Lesotho,2005,Sub-Saharan Africa,3.438,76.0
+Lesotho,2006,Sub-Saharan Africa,3.43,76.1
+Lesotho,2007,Sub-Saharan Africa,3.441,76.2
+Lesotho,2008,Sub-Saharan Africa,3.408,76.3
+Lesotho,2009,Sub-Saharan Africa,3.318,76.4
+Lesotho,2010,Sub-Saharan Africa,3.249,76.5
+Lesotho,2011,Sub-Saharan Africa,3.318,76.6
+Lesotho,2012,Sub-Saharan Africa,3.305,76.7
+Lesotho,2013,Sub-Saharan Africa,3.334,76.8
+Lesotho,2014,Sub-Saharan Africa,3.288,76.9
+Lesotho,2015,Sub-Saharan Africa,3.264,77.0
+Lesotho,2016,Sub-Saharan Africa,3.239,77.0
+Lesotho,2017,Sub-Saharan Africa,3.187,77.0
+Lesotho,2018,Sub-Saharan Africa,3.139,77.0
+Lesotho,2019,Sub-Saharan Africa,3.094,77.0
+Lesotho,2020,Sub-Saharan Africa,3.049,77.0
+Lesotho,2021,Sub-Saharan Africa,3.018,77.0
+Liberia,2000,Sub-Saharan Africa,5.875,51.4
+Liberia,2001,Sub-Saharan Africa,5.774,52.2
+Liberia,2002,Sub-Saharan Africa,5.653,52.9
+Liberia,2003,Sub-Saharan Africa,5.547,53.7
+Liberia,2004,Sub-Saharan Africa,5.506,54.4
+Liberia,2005,Sub-Saharan Africa,5.519,55.2
+Liberia,2006,Sub-Saharan Africa,5.53,55.9
+Liberia,2007,Sub-Saharan Africa,5.462,56.7
+Liberia,2008,Sub-Saharan Africa,5.328,57.4
+Liberia,2009,Sub-Saharan Africa,5.174,58.1
+Liberia,2010,Sub-Saharan Africa,5.058,58.9
+Liberia,2011,Sub-Saharan Africa,4.97,59.6
+Liberia,2012,Sub-Saharan Africa,4.881,60.4
+Liberia,2013,Sub-Saharan Africa,4.749,61.1
+Liberia,2014,Sub-Saharan Africa,4.622,61.9
+Liberia,2015,Sub-Saharan Africa,4.523,62.6
+Liberia,2016,Sub-Saharan Africa,4.461,62.6
+Liberia,2017,Sub-Saharan Africa,4.396,62.6
+Liberia,2018,Sub-Saharan Africa,4.336,62.6
+Liberia,2019,Sub-Saharan Africa,4.257,62.6
+Liberia,2020,Sub-Saharan Africa,4.174,62.6
+Liberia,2021,Sub-Saharan Africa,4.089,62.6
+Libya,2000,Middle East & North Africa,2.851,68.4
+Libya,2001,Middle East & North Africa,2.971,68.3
+Libya,2002,Middle East & North Africa,2.911,68.3
+Libya,2003,Middle East & North Africa,2.857,68.3
+Libya,2004,Middle East & North Africa,2.808,68.3
+Libya,2005,Middle East & North Africa,2.765,68.3
+Libya,2006,Middle East & North Africa,2.699,68.3
+Libya,2007,Middle East & North Africa,2.648,68.3
+Libya,2008,Middle East & North Africa,2.599,68.3
+Libya,2009,Middle East & North Africa,2.556,68.3
+Libya,2010,Middle East & North Africa,2.603,68.3
+Libya,2011,Middle East & North Africa,2.646,68.3
+Libya,2012,Middle East & North Africa,2.68,68.3
+Libya,2013,Middle East & North Africa,2.716,68.3
+Libya,2014,Middle East & North Africa,2.754,68.3
+Libya,2015,Middle East & North Africa,2.711,68.3
+Libya,2016,Middle East & North Africa,2.673,68.3
+Libya,2017,Middle East & North Africa,2.626,68.3
+Libya,2018,Middle East & North Africa,2.581,68.3
+Libya,2019,Middle East & North Africa,2.539,68.3
+Libya,2020,Middle East & North Africa,2.507,68.3
+Libya,2021,Middle East & North Africa,2.462,68.3
+Madagascar,2000,Sub-Saharan Africa,5.403,24.0
+Madagascar,2001,Sub-Saharan Africa,5.323,24.8
+Madagascar,2002,Sub-Saharan Africa,5.225,25.5
+Madagascar,2003,Sub-Saharan Africa,5.172,26.3
+Madagascar,2004,Sub-Saharan Africa,5.133,27.0
+Madagascar,2005,Sub-Saharan Africa,5.095,27.8
+Madagascar,2006,Sub-Saharan Africa,5.056,28.5
+Madagascar,2007,Sub-Saharan Africa,4.997,29.3
+Madagascar,2008,Sub-Saharan Africa,4.933,30.0
+Madagascar,2009,Sub-Saharan Africa,4.87,30.8
+Madagascar,2010,Sub-Saharan Africa,4.755,31.5
+Madagascar,2011,Sub-Saharan Africa,4.607,32.3
+Madagascar,2012,Sub-Saharan Africa,4.466,33.0
+Madagascar,2013,Sub-Saharan Africa,4.358,33.8
+Madagascar,2014,Sub-Saharan Africa,4.247,34.5
+Madagascar,2015,Sub-Saharan Africa,4.183,35.3
+Madagascar,2016,Sub-Saharan Africa,4.163,35.3
+Madagascar,2017,Sub-Saharan Africa,4.109,35.3
+Madagascar,2018,Sub-Saharan Africa,4.043,35.3
+Madagascar,2019,Sub-Saharan Africa,3.978,35.3
+Madagascar,2020,Sub-Saharan Africa,3.918,35.3
+Madagascar,2021,Sub-Saharan Africa,3.851,35.3
+Malawi,2000,Sub-Saharan Africa,6.036,57.3
+Malawi,2001,Sub-Saharan Africa,5.993,59.4
+Malawi,2002,Sub-Saharan Africa,5.96,61.6
+Malawi,2003,Sub-Saharan Africa,5.942,63.7
+Malawi,2004,Sub-Saharan Africa,5.93,65.8
+Malawi,2005,Sub-Saharan Africa,5.91,67.9
+Malawi,2006,Sub-Saharan Africa,5.841,70.0
+Malawi,2007,Sub-Saharan Africa,5.736,72.2
+Malawi,2008,Sub-Saharan Africa,5.605,74.3
+Malawi,2009,Sub-Saharan Africa,5.453,76.4
+Malawi,2010,Sub-Saharan Africa,5.274,78.5
+Malawi,2011,Sub-Saharan Africa,5.106,80.6
+Malawi,2012,Sub-Saharan Africa,4.924,82.8
+Malawi,2013,Sub-Saharan Africa,4.778,84.9
+Malawi,2014,Sub-Saharan Africa,4.612,87.0
+Malawi,2015,Sub-Saharan Africa,4.452,89.1
+Malawi,2016,Sub-Saharan Africa,4.309,89.1
+Malawi,2017,Sub-Saharan Africa,4.22,89.1
+Malawi,2018,Sub-Saharan Africa,4.14,89.1
+Malawi,2019,Sub-Saharan Africa,4.072,89.1
+Malawi,2020,Sub-Saharan Africa,3.995,89.1
+Malawi,2021,Sub-Saharan Africa,3.917,89.1
+Malaysia,2000,East Asia & Pacific,2.914,88.6
+Malaysia,2001,East Asia & Pacific,2.757,88.9
+Malaysia,2002,East Asia & Pacific,2.602,89.3
+Malaysia,2003,East Asia & Pacific,2.526,89.6
+Malaysia,2004,East Asia & Pacific,2.415,89.9
+Malaysia,2005,East Asia & Pacific,2.328,90.2
+Malaysia,2006,East Asia & Pacific,2.268,90.5
+Malaysia,2007,East Asia & Pacific,2.227,90.8
+Malaysia,2008,East Asia & Pacific,2.244,91.1
+Malaysia,2009,East Asia & Pacific,2.217,91.4
+Malaysia,2010,East Asia & Pacific,2.144,91.7
+Malaysia,2011,East Asia & Pacific,2.149,92.1
+Malaysia,2012,East Asia & Pacific,2.116,92.4
+Malaysia,2013,East Asia & Pacific,2.089,92.7
+Malaysia,2014,East Asia & Pacific,2.081,93.0
+Malaysia,2015,East Asia & Pacific,2.039,93.0
+Malaysia,2016,East Asia & Pacific,1.978,93.0
+Malaysia,2017,East Asia & Pacific,1.929,93.0
+Malaysia,2018,East Asia & Pacific,1.881,93.0
+Malaysia,2019,East Asia & Pacific,1.834,93.0
+Malaysia,2020,East Asia & Pacific,1.818,93.0
+Malaysia,2021,East Asia & Pacific,1.803,93.0
+Maldives,2000,South Asia,2.71,93.3
+Maldives,2001,South Asia,2.519,93.8
+Maldives,2002,South Asia,2.413,94.2
+Maldives,2003,South Asia,2.344,94.6
+Maldives,2004,South Asia,2.284,95.0
+Maldives,2005,South Asia,2.235,95.4
+Maldives,2006,South Asia,2.231,95.8
+Maldives,2007,South Asia,2.295,96.3
+Maldives,2008,South Asia,2.359,96.7
+Maldives,2009,South Asia,2.366,97.1
+Maldives,2010,South Asia,2.318,97.5
+Maldives,2011,South Asia,2.261,97.9
+Maldives,2012,South Asia,2.202,97.9
+Maldives,2013,South Asia,2.123,97.9
+Maldives,2014,South Asia,2.059,97.9
+Maldives,2015,South Asia,1.99,97.9
+Maldives,2016,South Asia,1.913,97.9
+Maldives,2017,South Asia,1.845,97.9
+Maldives,2018,South Asia,1.784,97.9
+Maldives,2019,South Asia,1.736,97.9
+Maldives,2020,South Asia,1.712,97.9
+Maldives,2021,South Asia,1.692,97.9
+Mali,2000,Sub-Saharan Africa,6.874,37.2
+Mali,2001,Sub-Saharan Africa,6.852,39.0
+Mali,2002,Sub-Saharan Africa,6.821,40.8
+Mali,2003,Sub-Saharan Africa,6.782,42.6
+Mali,2004,Sub-Saharan Africa,6.741,44.4
+Mali,2005,Sub-Saharan Africa,6.716,46.1
+Mali,2006,Sub-Saharan Africa,6.688,47.9
+Mali,2007,Sub-Saharan Africa,6.655,49.7
+Mali,2008,Sub-Saharan Africa,6.642,51.5
+Mali,2009,Sub-Saharan Africa,6.611,53.3
+Mali,2010,Sub-Saharan Africa,6.579,55.1
+Mali,2011,Sub-Saharan Africa,6.545,56.9
+Mali,2012,Sub-Saharan Africa,6.523,58.7
+Mali,2013,Sub-Saharan Africa,6.491,60.5
+Mali,2014,Sub-Saharan Africa,6.441,62.3
+Mali,2015,Sub-Saharan Africa,6.385,64.1
+Mali,2016,Sub-Saharan Africa,6.319,64.1
+Mali,2017,Sub-Saharan Africa,6.251,64.1
+Mali,2018,Sub-Saharan Africa,6.183,64.1
+Mali,2019,Sub-Saharan Africa,6.103,64.1
+Mali,2020,Sub-Saharan Africa,6.035,64.1
+Mali,2021,Sub-Saharan Africa,5.956,64.1
+Mexico,2000,Latin America & Caribbean,2.716,73.0
+Mexico,2001,Latin America & Caribbean,2.669,74.4
+Mexico,2002,Latin America & Caribbean,2.623,75.7
+Mexico,2003,Latin America & Caribbean,2.579,77.1
+Mexico,2004,Latin America & Caribbean,2.536,78.5
+Mexico,2005,Latin America & Caribbean,2.495,79.8
+Mexico,2006,Latin America & Caribbean,2.456,81.2
+Mexico,2007,Latin America & Caribbean,2.421,82.6
+Mexico,2008,Latin America & Caribbean,2.391,83.9
+Mexico,2009,Latin America & Caribbean,2.364,85.3
+Mexico,2010,Latin America & Caribbean,2.34,86.7
+Mexico,2011,Latin America & Caribbean,2.317,88.0
+Mexico,2012,Latin America & Caribbean,2.294,89.4
+Mexico,2013,Latin America & Caribbean,2.269,90.8
+Mexico,2014,Latin America & Caribbean,2.211,92.1
+Mexico,2015,Latin America & Caribbean,2.137,92.1
+Mexico,2016,Latin America & Caribbean,2.086,92.1
+Mexico,2017,Latin America & Caribbean,2.041,92.1
+Mexico,2018,Latin America & Caribbean,1.996,92.1
+Mexico,2019,Latin America & Caribbean,1.916,92.1
+Mexico,2020,Latin America & Caribbean,1.905,92.1
+Mexico,2021,Latin America & Caribbean,1.822,92.1
+Moldova,2000,Europe & Central Asia,1.499,75.2
+Moldova,2001,Europe & Central Asia,1.463,75.7
+Moldova,2002,Europe & Central Asia,1.437,76.1
+Moldova,2003,Europe & Central Asia,1.48,76.6
+Moldova,2004,Europe & Central Asia,1.539,77.0
+Moldova,2005,Europe & Central Asia,1.531,77.4
+Moldova,2006,Europe & Central Asia,1.541,77.9
+Moldova,2007,Europe & Central Asia,1.574,78.3
+Moldova,2008,Europe & Central Asia,1.638,78.7
+Moldova,2009,Europe & Central Asia,1.704,79.2
+Moldova,2010,Europe & Central Asia,1.698,79.6
+Moldova,2011,Europe & Central Asia,1.66,80.1
+Moldova,2012,Europe & Central Asia,1.659,80.5
+Moldova,2013,Europe & Central Asia,1.654,80.9
+Moldova,2014,Europe & Central Asia,1.822,81.4
+Moldova,2015,Europe & Central Asia,1.868,81.4
+Moldova,2016,Europe & Central Asia,1.89,81.4
+Moldova,2017,Europe & Central Asia,1.81,81.4
+Moldova,2018,Europe & Central Asia,1.809,81.4
+Moldova,2019,Europe & Central Asia,1.78,81.4
+Moldova,2020,Europe & Central Asia,1.77,81.4
+Moldova,2021,Europe & Central Asia,1.806,81.4
+Mongolia,2000,East Asia & Pacific,2.255,32.4
+Mongolia,2001,East Asia & Pacific,2.195,34.2
+Mongolia,2002,East Asia & Pacific,2.13,36.0
+Mongolia,2003,East Asia & Pacific,2.051,37.8
+Mongolia,2004,East Asia & Pacific,2.017,39.5
+Mongolia,2005,East Asia & Pacific,2.028,41.3
+Mongolia,2006,East Asia & Pacific,2.13,43.1
+Mongolia,2007,East Asia & Pacific,2.297,44.9
+Mongolia,2008,East Asia & Pacific,2.446,46.7
+Mongolia,2009,East Asia & Pacific,2.533,48.5
+Mongolia,2010,East Asia & Pacific,2.513,50.3
+Mongolia,2011,East Asia & Pacific,2.602,52.1
+Mongolia,2012,East Asia & Pacific,2.739,53.8
+Mongolia,2013,East Asia & Pacific,2.897,55.6
+Mongolia,2014,East Asia & Pacific,2.996,57.4
+Mongolia,2015,East Asia & Pacific,3.01,59.2
+Mongolia,2016,East Asia & Pacific,2.957,59.2
+Mongolia,2017,East Asia & Pacific,2.891,59.2
+Mongolia,2018,East Asia & Pacific,2.923,59.2
+Mongolia,2019,East Asia & Pacific,2.937,59.2
+Mongolia,2020,East Asia & Pacific,2.9,59.2
+Mongolia,2021,East Asia & Pacific,2.837,59.2
+Morocco,2000,Middle East & North Africa,2.796,58.3
+Morocco,2001,Middle East & North Africa,2.715,58.9
+Morocco,2002,Middle East & North Africa,2.67,59.4
+Morocco,2003,Middle East & North Africa,2.632,60.0
+Morocco,2004,Middle East & North Africa,2.598,60.5
+Morocco,2005,Middle East & North Africa,2.568,61.0
+Morocco,2006,Middle East & North Africa,2.559,61.6
+Morocco,2007,Middle East & North Africa,2.55,62.1
+Morocco,2008,Middle East & North Africa,2.549,62.6
+Morocco,2009,Middle East & North Africa,2.578,63.2
+Morocco,2010,Middle East & North Africa,2.586,63.7
+Morocco,2011,Middle East & North Africa,2.609,64.2
+Morocco,2012,Middle East & North Africa,2.598,64.8
+Morocco,2013,Middle East & North Africa,2.594,65.3
+Morocco,2014,Middle East & North Africa,2.548,65.3
+Morocco,2015,Middle East & North Africa,2.531,65.3
+Morocco,2016,Middle East & North Africa,2.451,65.3
+Morocco,2017,Middle East & North Africa,2.451,65.3
+Morocco,2018,Middle East & North Africa,2.415,65.3
+Morocco,2019,Middle East & North Africa,2.382,65.3
+Morocco,2020,Middle East & North Africa,2.353,65.3
+Morocco,2021,Middle East & North Africa,2.328,65.3
+Mozambique,2000,Sub-Saharan Africa,5.812,27.3
+Mozambique,2001,Sub-Saharan Africa,5.778,28.0
+Mozambique,2002,Sub-Saharan Africa,5.734,28.8
+Mozambique,2003,Sub-Saharan Africa,5.733,29.5
+Mozambique,2004,Sub-Saharan Africa,5.667,30.3
+Mozambique,2005,Sub-Saharan Africa,5.609,31.0
+Mozambique,2006,Sub-Saharan Africa,5.55,31.8
+Mozambique,2007,Sub-Saharan Africa,5.513,32.5
+Mozambique,2008,Sub-Saharan Africa,5.579,33.3
+Mozambique,2009,Sub-Saharan Africa,5.626,34.0
+Mozambique,2010,Sub-Saharan Africa,5.63,34.8
+Mozambique,2011,Sub-Saharan Africa,5.551,35.5
+Mozambique,2012,Sub-Saharan Africa,5.451,36.3
+Mozambique,2013,Sub-Saharan Africa,5.34,37.0
+Mozambique,2014,Sub-Saharan Africa,5.131,37.0
+Mozambique,2015,Sub-Saharan Africa,5.062,37.0
+Mozambique,2016,Sub-Saharan Africa,4.992,37.0
+Mozambique,2017,Sub-Saharan Africa,4.922,37.0
+Mozambique,2018,Sub-Saharan Africa,4.852,37.0
+Mozambique,2019,Sub-Saharan Africa,4.783,37.0
+Mozambique,2020,Sub-Saharan Africa,4.713,37.0
+Mozambique,2021,Sub-Saharan Africa,4.644,37.0
+Myanmar,2000,East Asia & Pacific,2.785,59.9
+Myanmar,2001,East Asia & Pacific,2.783,61.1
+Myanmar,2002,East Asia & Pacific,2.782,62.3
+Myanmar,2003,East Asia & Pacific,2.704,63.5
+Myanmar,2004,East Asia & Pacific,2.621,64.7
+Myanmar,2005,East Asia & Pacific,2.552,66.0
+Myanmar,2006,East Asia & Pacific,2.504,67.2
+Myanmar,2007,East Asia & Pacific,2.479,68.4
+Myanmar,2008,East Asia & Pacific,2.428,69.6
+Myanmar,2009,East Asia & Pacific,2.391,70.8
+Myanmar,2010,East Asia & Pacific,2.346,72.0
+Myanmar,2011,East Asia & Pacific,2.312,73.2
+Myanmar,2012,East Asia & Pacific,2.274,74.4
+Myanmar,2013,East Asia & Pacific,2.256,74.4
+Myanmar,2014,East Asia & Pacific,2.24,74.4
+Myanmar,2015,East Asia & Pacific,2.248,74.4
+Myanmar,2016,East Asia & Pacific,2.249,74.4
+Myanmar,2017,East Asia & Pacific,2.234,74.4
+Myanmar,2018,East Asia & Pacific,2.213,74.4
+Myanmar,2019,East Asia & Pacific,2.2,74.4
+Myanmar,2020,East Asia & Pacific,2.174,74.4
+Myanmar,2021,East Asia & Pacific,2.151,74.4
+Namibia,2000,Sub-Saharan Africa,3.975,68.9
+Namibia,2001,Sub-Saharan Africa,3.827,70.0
+Namibia,2002,Sub-Saharan Africa,3.716,71.0
+Namibia,2003,Sub-Saharan Africa,3.619,72.1
+Namibia,2004,Sub-Saharan Africa,3.58,73.1
+Namibia,2005,Sub-Saharan Africa,3.56,74.2
+Namibia,2006,Sub-Saharan Africa,3.535,75.2
+Namibia,2007,Sub-Saharan Africa,3.552,76.3
+Namibia,2008,Sub-Saharan Africa,3.587,77.3
+Namibia,2009,Sub-Saharan Africa,3.613,78.4
+Namibia,2010,Sub-Saharan Africa,3.63,79.4
+Namibia,2011,Sub-Saharan Africa,3.658,80.5
+Namibia,2012,Sub-Saharan Africa,3.676,81.5
+Namibia,2013,Sub-Saharan Africa,3.653,82.6
+Namibia,2014,Sub-Saharan Africa,3.635,83.6
+Namibia,2015,Sub-Saharan Africa,3.604,84.6
+Namibia,2016,Sub-Saharan Africa,3.574,84.6
+Namibia,2017,Sub-Saharan Africa,3.511,84.6
+Namibia,2018,Sub-Saharan Africa,3.462,84.6
+Namibia,2019,Sub-Saharan Africa,3.404,84.6
+Namibia,2020,Sub-Saharan Africa,3.349,84.6
+Namibia,2021,Sub-Saharan Africa,3.303,84.6
+Nepal,2000,South Asia,3.944,74.5
+Nepal,2001,South Asia,3.763,75.6
+Nepal,2002,South Asia,3.59,76.8
+Nepal,2003,South Asia,3.457,77.9
+Nepal,2004,South Asia,3.311,79.1
+Nepal,2005,South Asia,3.142,80.2
+Nepal,2006,South Asia,2.974,81.4
+Nepal,2007,South Asia,2.843,82.5
+Nepal,2008,South Asia,2.719,83.7
+Nepal,2009,South Asia,2.604,84.9
+Nepal,2010,South Asia,2.512,86.0
+Nepal,2011,South Asia,2.439,87.2
+Nepal,2012,South Asia,2.387,88.3
+Nepal,2013,South Asia,2.334,89.5
+Nepal,2014,South Asia,2.293,90.6
+Nepal,2015,South Asia,2.25,91.8
+Nepal,2016,South Asia,2.203,91.8
+Nepal,2017,South Asia,2.15,91.8
+Nepal,2018,South Asia,2.104,91.8
+Nepal,2019,South Asia,2.08,91.8
+Nepal,2020,South Asia,2.055,91.8
+Nepal,2021,South Asia,2.029,91.8
+Nicaragua,2000,Latin America & Caribbean,3.111,60.1
+Nicaragua,2001,Latin America & Caribbean,3.019,60.9
+Nicaragua,2002,Latin America & Caribbean,2.941,61.6
+Nicaragua,2003,Latin America & Caribbean,2.874,62.3
+Nicaragua,2004,Latin America & Caribbean,2.816,63.0
+Nicaragua,2005,Latin America & Caribbean,2.767,63.7
+Nicaragua,2006,Latin America & Caribbean,2.725,64.4
+Nicaragua,2007,Latin America & Caribbean,2.689,65.1
+Nicaragua,2008,Latin America & Caribbean,2.657,65.8
+Nicaragua,2009,Latin America & Caribbean,2.628,66.6
+Nicaragua,2010,Latin America & Caribbean,2.601,67.3
+Nicaragua,2011,Latin America & Caribbean,2.575,68.0
+Nicaragua,2012,Latin America & Caribbean,2.55,68.7
+Nicaragua,2013,Latin America & Caribbean,2.526,69.4
+Nicaragua,2014,Latin America & Caribbean,2.503,69.4
+Nicaragua,2015,Latin America & Caribbean,2.48,69.4
+Nicaragua,2016,Latin America & Caribbean,2.455,69.4
+Nicaragua,2017,Latin America & Caribbean,2.43,69.4
+Nicaragua,2018,Latin America & Caribbean,2.404,69.4
+Nicaragua,2019,Latin America & Caribbean,2.377,69.4
+Nicaragua,2020,Latin America & Caribbean,2.349,69.4
+Nicaragua,2021,Latin America & Caribbean,2.321,69.4
+Niger,2000,Sub-Saharan Africa,7.732,37.0
+Niger,2001,Sub-Saharan Africa,7.695,37.9
+Niger,2002,Sub-Saharan Africa,7.671,38.7
+Niger,2003,Sub-Saharan Africa,7.654,39.5
+Niger,2004,Sub-Saharan Africa,7.634,40.3
+Niger,2005,Sub-Saharan Africa,7.615,41.2
+Niger,2006,Sub-Saharan Africa,7.579,42.0
+Niger,2007,Sub-Saharan Africa,7.559,42.8
+Niger,2008,Sub-Saharan Africa,7.539,43.7
+Niger,2009,Sub-Saharan Africa,7.513,44.5
+Niger,2010,Sub-Saharan Africa,7.485,45.3
+Niger,2011,Sub-Saharan Africa,7.449,46.1
+Niger,2012,Sub-Saharan Africa,7.4,47.0
+Niger,2013,Sub-Saharan Africa,7.344,47.8
+Niger,2014,Sub-Saharan Africa,7.279,48.6
+Niger,2015,Sub-Saharan Africa,7.211,48.6
+Niger,2016,Sub-Saharan Africa,7.141,48.6
+Niger,2017,Sub-Saharan Africa,7.084,48.6
+Niger,2018,Sub-Saharan Africa,7.023,48.6
+Niger,2019,Sub-Saharan Africa,6.961,48.6
+Niger,2020,Sub-Saharan Africa,6.892,48.6
+Niger,2021,Sub-Saharan Africa,6.82,48.6
+Nigeria,2000,Sub-Saharan Africa,6.124,37.7
+Nigeria,2001,Sub-Saharan Africa,6.139,39.0
+Nigeria,2002,Sub-Saharan Africa,6.135,40.3
+Nigeria,2003,Sub-Saharan Africa,6.116,41.6
+Nigeria,2004,Sub-Saharan Africa,6.085,42.9
+Nigeria,2005,Sub-Saharan Africa,6.068,44.2
+Nigeria,2006,Sub-Saharan Africa,6.081,45.5
+Nigeria,2007,Sub-Saharan Africa,6.08,46.8
+Nigeria,2008,Sub-Saharan Africa,6.078,48.1
+Nigeria,2009,Sub-Saharan Africa,6.039,49.4
+Nigeria,2010,Sub-Saharan Africa,5.98,50.7
+Nigeria,2011,Sub-Saharan Africa,5.918,52.1
+Nigeria,2012,Sub-Saharan Africa,5.832,53.4
+Nigeria,2013,Sub-Saharan Africa,5.738,54.7
+Nigeria,2014,Sub-Saharan Africa,5.664,56.0
+Nigeria,2015,Sub-Saharan Africa,5.616,57.3
+Nigeria,2016,Sub-Saharan Africa,5.584,57.3
+Nigeria,2017,Sub-Saharan Africa,5.523,57.3
+Nigeria,2018,Sub-Saharan Africa,5.447,57.3
+Nigeria,2019,Sub-Saharan Africa,5.379,57.3
+Nigeria,2020,Sub-Saharan Africa,5.309,57.3
+Nigeria,2021,Sub-Saharan Africa,5.237,57.3
+Pakistan,2000,South Asia,5.257,85.0
+Pakistan,2001,South Asia,5.123,85.4
+Pakistan,2002,South Asia,5.008,85.7
+Pakistan,2003,South Asia,4.88,86.0
+Pakistan,2004,South Asia,4.754,86.3
+Pakistan,2005,South Asia,4.637,86.7
+Pakistan,2006,South Asia,4.526,87.0
+Pakistan,2007,South Asia,4.51,87.3
+Pakistan,2008,South Asia,4.432,87.6
+Pakistan,2009,South Asia,4.36,88.0
+Pakistan,2010,South Asia,4.297,88.3
+Pakistan,2011,South Asia,4.234,88.6
+Pakistan,2012,South Asia,4.169,88.9
+Pakistan,2013,South Asia,4.106,89.3
+Pakistan,2014,South Asia,4.005,89.6
+Pakistan,2015,South Asia,3.904,89.9
+Pakistan,2016,South Asia,3.827,89.9
+Pakistan,2017,South Asia,3.759,89.9
+Pakistan,2018,South Asia,3.685,89.9
+Pakistan,2019,South Asia,3.62,89.9
+Pakistan,2020,South Asia,3.555,89.9
+Pakistan,2021,South Asia,3.47,89.9
+Papua New Guinea,2000,East Asia & Pacific,4.525,27.1
+Papua New Guinea,2001,East Asia & Pacific,4.469,27.6
+Papua New Guinea,2002,East Asia & Pacific,4.419,28.1
+Papua New Guinea,2003,East Asia & Pacific,4.362,28.5
+Papua New Guinea,2004,East Asia & Pacific,4.283,29.0
+Papua New Guinea,2005,East Asia & Pacific,4.22,29.5
+Papua New Guinea,2006,East Asia & Pacific,4.148,30.0
+Papua New Guinea,2007,East Asia & Pacific,4.076,30.4
+Papua New Guinea,2008,East Asia & Pacific,4.015,30.9
+Papua New Guinea,2009,East Asia & Pacific,3.941,31.4
+Papua New Guinea,2010,East Asia & Pacific,3.883,31.8
+Papua New Guinea,2011,East Asia & Pacific,3.816,32.3
+Papua New Guinea,2012,East Asia & Pacific,3.746,32.8
+Papua New Guinea,2013,East Asia & Pacific,3.684,32.8
+Papua New Guinea,2014,East Asia & Pacific,3.625,32.8
+Papua New Guinea,2015,East Asia & Pacific,3.558,32.8
+Papua New Guinea,2016,East Asia & Pacific,3.495,32.8
+Papua New Guinea,2017,East Asia & Pacific,3.432,32.8
+Papua New Guinea,2018,East Asia & Pacific,3.382,32.8
+Papua New Guinea,2019,East Asia & Pacific,3.322,32.8
+Papua New Guinea,2020,East Asia & Pacific,3.274,32.8
+Papua New Guinea,2021,East Asia & Pacific,3.215,32.8
+Paraguay,2000,Latin America & Caribbean,3.553,51.6
+Paraguay,2001,Latin America & Caribbean,3.431,54.5
+Paraguay,2002,Latin America & Caribbean,3.315,57.4
+Paraguay,2003,Latin America & Caribbean,3.21,60.3
+Paraguay,2004,Latin America & Caribbean,3.119,63.2
+Paraguay,2005,Latin America & Caribbean,3.04,66.0
+Paraguay,2006,Latin America & Caribbean,2.97,68.9
+Paraguay,2007,Latin America & Caribbean,2.907,71.8
+Paraguay,2008,Latin America & Caribbean,2.846,74.7
+Paraguay,2009,Latin America & Caribbean,2.787,77.6
+Paraguay,2010,Latin America & Caribbean,2.73,80.5
+Paraguay,2011,Latin America & Caribbean,2.675,83.4
+Paraguay,2012,Latin America & Caribbean,2.625,86.3
+Paraguay,2013,Latin America & Caribbean,2.636,89.2
+Paraguay,2014,Latin America & Caribbean,2.646,92.1
+Paraguay,2015,Latin America & Caribbean,2.645,94.9
+Paraguay,2016,Latin America & Caribbean,2.624,94.9
+Paraguay,2017,Latin America & Caribbean,2.591,94.9
+Paraguay,2018,Latin America & Caribbean,2.561,94.9
+Paraguay,2019,Latin America & Caribbean,2.525,94.9
+Paraguay,2020,Latin America & Caribbean,2.497,94.9
+Paraguay,2021,Latin America & Caribbean,2.469,94.9
+Peru,2000,Latin America & Caribbean,2.845,54.0
+Peru,2001,Latin America & Caribbean,2.744,55.1
+Peru,2002,Latin America & Caribbean,2.693,56.1
+Peru,2003,Latin America & Caribbean,2.661,57.1
+Peru,2004,Latin America & Caribbean,2.673,58.1
+Peru,2005,Latin America & Caribbean,2.686,59.1
+Peru,2006,Latin America & Caribbean,2.686,60.1
+Peru,2007,Latin America & Caribbean,2.666,61.1
+Peru,2008,Latin America & Caribbean,2.628,62.1
+Peru,2009,Latin America & Caribbean,2.607,63.2
+Peru,2010,Latin America & Caribbean,2.573,64.2
+Peru,2011,Latin America & Caribbean,2.542,65.2
+Peru,2012,Latin America & Caribbean,2.487,66.2
+Peru,2013,Latin America & Caribbean,2.432,67.2
+Peru,2014,Latin America & Caribbean,2.385,68.2
+Peru,2015,Latin America & Caribbean,2.338,69.2
+Peru,2016,Latin America & Caribbean,2.306,69.2
+Peru,2017,Latin America & Caribbean,2.281,69.2
+Peru,2018,Latin America & Caribbean,2.26,69.2
+Peru,2019,Latin America & Caribbean,2.242,69.2
+Peru,2020,Latin America & Caribbean,2.216,69.2
+Peru,2021,Latin America & Caribbean,2.192,69.2
+Philippines,2000,East Asia & Pacific,3.714,82.5
+Philippines,2001,East Asia & Pacific,3.718,83.0
+Philippines,2002,East Asia & Pacific,3.656,83.5
+Philippines,2003,East Asia & Pacific,3.604,84.1
+Philippines,2004,East Asia & Pacific,3.543,84.6
+Philippines,2005,East Asia & Pacific,3.49,85.1
+Philippines,2006,East Asia & Pacific,3.486,85.6
+Philippines,2007,East Asia & Pacific,3.444,86.1
+Philippines,2008,East Asia & Pacific,3.404,86.6
+Philippines,2009,East Asia & Pacific,3.363,87.2
+Philippines,2010,East Asia & Pacific,3.264,87.7
+Philippines,2011,East Asia & Pacific,3.122,88.2
+Philippines,2012,East Asia & Pacific,3.127,88.7
+Philippines,2013,East Asia & Pacific,3.096,89.2
+Philippines,2014,East Asia & Pacific,3.031,89.7
+Philippines,2015,East Asia & Pacific,2.951,90.3
+Philippines,2016,East Asia & Pacific,2.892,90.3
+Philippines,2017,East Asia & Pacific,2.865,90.3
+Philippines,2018,East Asia & Pacific,2.831,90.3
+Philippines,2019,East Asia & Pacific,2.805,90.3
+Philippines,2020,East Asia & Pacific,2.777,90.3
+Philippines,2021,East Asia & Pacific,2.748,90.3
+Rwanda,2000,Sub-Saharan Africa,5.924,62.9
+Rwanda,2001,Sub-Saharan Africa,5.844,63.5
+Rwanda,2002,Sub-Saharan Africa,5.752,64.1
+Rwanda,2003,Sub-Saharan Africa,5.674,64.7
+Rwanda,2004,Sub-Saharan Africa,5.573,65.3
+Rwanda,2005,Sub-Saharan Africa,5.436,65.9
+Rwanda,2006,Sub-Saharan Africa,5.28,66.5
+Rwanda,2007,Sub-Saharan Africa,5.1,67.1
+Rwanda,2008,Sub-Saharan Africa,4.901,67.7
+Rwanda,2009,Sub-Saharan Africa,4.716,68.3
+Rwanda,2010,Sub-Saharan Africa,4.532,68.9
+Rwanda,2011,Sub-Saharan Africa,4.357,69.5
+Rwanda,2012,Sub-Saharan Africa,4.233,70.1
+Rwanda,2013,Sub-Saharan Africa,4.159,70.7
+Rwanda,2014,Sub-Saharan Africa,4.112,71.3
+Rwanda,2015,Sub-Saharan Africa,4.081,71.9
+Rwanda,2016,Sub-Saharan Africa,4.06,71.9
+Rwanda,2017,Sub-Saharan Africa,4.027,71.9
+Rwanda,2018,Sub-Saharan Africa,3.994,71.9
+Rwanda,2019,Sub-Saharan Africa,3.939,71.9
+Rwanda,2020,Sub-Saharan Africa,3.873,71.9
+Rwanda,2021,Sub-Saharan Africa,3.821,71.9
+Senegal,2000,Sub-Saharan Africa,5.498,51.7
+Senegal,2001,Sub-Saharan Africa,5.412,52.7
+Senegal,2002,Sub-Saharan Africa,5.311,53.8
+Senegal,2003,Sub-Saharan Africa,5.252,54.8
+Senegal,2004,Sub-Saharan Africa,5.184,55.9
+Senegal,2005,Sub-Saharan Africa,5.186,56.9
+Senegal,2006,Sub-Saharan Africa,5.198,58.0
+Senegal,2007,Sub-Saharan Africa,5.11,59.0
+Senegal,2008,Sub-Saharan Africa,5.051,60.0
+Senegal,2009,Sub-Saharan Africa,5.081,61.1
+Senegal,2010,Sub-Saharan Africa,5.064,62.1
+Senegal,2011,Sub-Saharan Africa,5.039,63.2
+Senegal,2012,Sub-Saharan Africa,5.005,64.2
+Senegal,2013,Sub-Saharan Africa,4.96,65.2
+Senegal,2014,Sub-Saharan Africa,4.905,66.3
+Senegal,2015,Sub-Saharan Africa,4.781,67.3
+Senegal,2016,Sub-Saharan Africa,4.683,67.3
+Senegal,2017,Sub-Saharan Africa,4.622,67.3
+Senegal,2018,Sub-Saharan Africa,4.584,67.3
+Senegal,2019,Sub-Saharan Africa,4.517,67.3
+Senegal,2020,Sub-Saharan Africa,4.454,67.3
+Senegal,2021,Sub-Saharan Africa,4.387,67.3
+Sierra Leone,2000,Sub-Saharan Africa,6.355,31.3
+Sierra Leone,2001,Sub-Saharan Africa,6.305,32.4
+Sierra Leone,2002,Sub-Saharan Africa,6.23,33.5
+Sierra Leone,2003,Sub-Saharan Africa,6.087,34.6
+Sierra Leone,2004,Sub-Saharan Africa,5.919,35.7
+Sierra Leone,2005,Sub-Saharan Africa,5.807,36.8
+Sierra Leone,2006,Sub-Saharan Africa,5.737,37.9
+Sierra Leone,2007,Sub-Saharan Africa,5.643,39.0
+Sierra Leone,2008,Sub-Saharan Africa,5.563,40.1
+Sierra Leone,2009,Sub-Saharan Africa,5.448,41.2
+Sierra Leone,2010,Sub-Saharan Africa,5.327,42.3
+Sierra Leone,2011,Sub-Saharan Africa,5.209,43.4
+Sierra Leone,2012,Sub-Saharan Africa,5.064,44.5
+Sierra Leone,2013,Sub-Saharan Africa,4.873,45.6
+Sierra Leone,2014,Sub-Saharan Africa,4.703,46.7
+Sierra Leone,2015,Sub-Saharan Africa,4.548,47.8
+Sierra Leone,2016,Sub-Saharan Africa,4.466,47.8
+Sierra Leone,2017,Sub-Saharan Africa,4.389,47.8
+Sierra Leone,2018,Sub-Saharan Africa,4.294,47.8
+Sierra Leone,2019,Sub-Saharan Africa,4.192,47.8
+Sierra Leone,2020,Sub-Saharan Africa,4.08,47.8
+Sierra Leone,2021,Sub-Saharan Africa,3.978,47.8
+Somalia,2000,Sub-Saharan Africa,7.61,16.4
+Somalia,2001,Sub-Saharan Africa,7.582,15.3
+Somalia,2002,Sub-Saharan Africa,7.578,14.2
+Somalia,2003,Sub-Saharan Africa,7.547,13.1
+Somalia,2004,Sub-Saharan Africa,7.522,12.0
+Somalia,2005,Sub-Saharan Africa,7.484,11.0
+Somalia,2006,Sub-Saharan Africa,7.458,9.9
+Somalia,2007,Sub-Saharan Africa,7.42,8.8
+Somalia,2008,Sub-Saharan Africa,7.387,8.8
+Somalia,2009,Sub-Saharan Africa,7.34,8.8
+Somalia,2010,Sub-Saharan Africa,7.299,8.8
+Somalia,2011,Sub-Saharan Africa,7.257,8.8
+Somalia,2012,Sub-Saharan Africa,7.198,8.8
+Somalia,2013,Sub-Saharan Africa,7.128,8.8
+Somalia,2014,Sub-Saharan Africa,7.057,8.8
+Somalia,2015,Sub-Saharan Africa,6.978,8.8
+Somalia,2016,Sub-Saharan Africa,6.886,8.8
+Somalia,2017,Sub-Saharan Africa,6.738,8.8
+Somalia,2018,Sub-Saharan Africa,6.632,8.8
+Somalia,2019,Sub-Saharan Africa,6.531,8.8
+Somalia,2020,Sub-Saharan Africa,6.417,8.8
+Somalia,2021,Sub-Saharan Africa,6.312,8.8
+South Africa,2000,Sub-Saharan Africa,2.413,70.6
+South Africa,2001,Sub-Saharan Africa,2.373,71.3
+South Africa,2002,Sub-Saharan Africa,2.324,72.0
+South Africa,2003,Sub-Saharan Africa,2.358,72.7
+South Africa,2004,Sub-Saharan Africa,2.436,73.5
+South Africa,2005,Sub-Saharan Africa,2.512,74.2
+South Africa,2006,Sub-Saharan Africa,2.548,74.9
+South Africa,2007,Sub-Saharan Africa,2.545,75.6
+South Africa,2008,Sub-Saharan Africa,2.679,76.3
+South Africa,2009,Sub-Saharan Africa,2.501,77.1
+South Africa,2010,Sub-Saharan Africa,2.445,77.8
+South Africa,2011,Sub-Saharan Africa,2.436,78.5
+South Africa,2012,Sub-Saharan Africa,2.447,79.2
+South Africa,2013,Sub-Saharan Africa,2.428,80.0
+South Africa,2014,Sub-Saharan Africa,2.424,80.7
+South Africa,2015,Sub-Saharan Africa,2.359,81.4
+South Africa,2016,Sub-Saharan Africa,2.261,81.4
+South Africa,2017,Sub-Saharan Africa,2.334,81.4
+South Africa,2018,Sub-Saharan Africa,2.418,81.4
+South Africa,2019,Sub-Saharan Africa,2.475,81.4
+South Africa,2020,Sub-Saharan Africa,2.401,81.4
+South Africa,2021,Sub-Saharan Africa,2.374,81.4
+South Sudan,2012,Sub-Saharan Africa,5.197,56.9
+South Sudan,2013,Sub-Saharan Africa,5.108,56.9
+South Sudan,2014,Sub-Saharan Africa,5.022,56.9
+South Sudan,2015,Sub-Saharan Africa,4.937,56.9
+South Sudan,2016,Sub-Saharan Africa,4.855,56.9
+South Sudan,2017,Sub-Saharan Africa,4.775,56.9
+South Sudan,2018,Sub-Saharan Africa,4.696,56.9
+South Sudan,2019,Sub-Saharan Africa,4.619,56.9
+South Sudan,2020,Sub-Saharan Africa,4.543,56.9
+South Sudan,2021,Sub-Saharan Africa,4.469,56.9
+Sri Lanka,2000,South Asia,2.191,76.3
+Sri Lanka,2001,South Asia,2.261,77.6
+Sri Lanka,2002,South Asia,2.275,78.9
+Sri Lanka,2003,South Asia,2.276,80.3
+Sri Lanka,2004,South Asia,2.267,81.6
+Sri Lanka,2005,South Asia,2.283,82.9
+Sri Lanka,2006,South Asia,2.344,84.3
+Sri Lanka,2007,South Asia,2.327,85.6
+Sri Lanka,2008,South Asia,2.275,86.9
+Sri Lanka,2009,South Asia,2.224,88.3
+Sri Lanka,2010,South Asia,2.196,89.6
+Sri Lanka,2011,South Asia,2.206,90.9
+Sri Lanka,2012,South Asia,2.196,92.3
+Sri Lanka,2013,South Asia,2.181,93.6
+Sri Lanka,2014,South Asia,2.13,95.0
+Sri Lanka,2015,South Asia,2.091,95.0
+Sri Lanka,2016,South Asia,2.068,95.0
+Sri Lanka,2017,South Asia,2.053,95.0
+Sri Lanka,2018,South Asia,2.031,95.0
+Sri Lanka,2019,South Asia,2.019,95.0
+Sri Lanka,2020,South Asia,2.0,95.0
+Sri Lanka,2021,South Asia,1.99,95.0
+Sudan,2012,Middle East & North Africa,4.895,50.2
+Sudan,2013,Middle East & North Africa,4.903,50.2
+Sudan,2014,Middle East & North Africa,4.912,50.2
+Sudan,2015,Middle East & North Africa,4.898,50.2
+Sudan,2016,Middle East & North Africa,4.829,50.2
+Sudan,2017,Middle East & North Africa,4.761,50.2
+Sudan,2018,Middle East & North Africa,4.681,50.2
+Sudan,2019,Middle East & North Africa,4.617,50.2
+Sudan,2020,Middle East & North Africa,4.542,50.2
+Sudan,2021,Middle East & North Africa,4.457,50.2
+Tajikistan,2000,Europe & Central Asia,4.006,47.8
+Tajikistan,2001,Europe & Central Asia,3.884,49.1
+Tajikistan,2002,Europe & Central Asia,3.767,50.5
+Tajikistan,2003,Europe & Central Asia,3.606,51.8
+Tajikistan,2004,Europe & Central Asia,3.529,53.2
+Tajikistan,2005,Europe & Central Asia,3.438,54.5
+Tajikistan,2006,Europe & Central Asia,3.385,55.9
+Tajikistan,2007,Europe & Central Asia,3.367,57.2
+Tajikistan,2008,Europe & Central Asia,3.388,58.6
+Tajikistan,2009,Europe & Central Asia,3.43,59.9
+Tajikistan,2010,Europe & Central Asia,3.457,61.3
+Tajikistan,2011,Europe & Central Asia,3.456,62.7
+Tajikistan,2012,Europe & Central Asia,3.421,64.0
+Tajikistan,2013,Europe & Central Asia,3.433,65.4
+Tajikistan,2014,Europe & Central Asia,3.459,66.7
+Tajikistan,2015,Europe & Central Asia,3.459,66.7
+Tajikistan,2016,Europe & Central Asia,3.384,66.7
+Tajikistan,2017,Europe & Central Asia,3.29,66.7
+Tajikistan,2018,Europe & Central Asia,3.294,66.7
+Tajikistan,2019,Europe & Central Asia,3.281,66.7
+Tajikistan,2020,Europe & Central Asia,3.237,66.7
+Tajikistan,2021,Europe & Central Asia,3.186,66.7
+Tanzania,2000,Sub-Saharan Africa,5.686,45.3
+Tanzania,2001,Sub-Saharan Africa,5.665,45.3
+Tanzania,2002,Sub-Saharan Africa,5.623,45.4
+Tanzania,2003,Sub-Saharan Africa,5.605,45.4
+Tanzania,2004,Sub-Saharan Africa,5.607,45.4
+Tanzania,2005,Sub-Saharan Africa,5.61,45.4
+Tanzania,2006,Sub-Saharan Africa,5.563,45.4
+Tanzania,2007,Sub-Saharan Africa,5.485,45.4
+Tanzania,2008,Sub-Saharan Africa,5.425,45.4
+Tanzania,2009,Sub-Saharan Africa,5.357,45.5
+Tanzania,2010,Sub-Saharan Africa,5.293,45.5
+Tanzania,2011,Sub-Saharan Africa,5.207,45.5
+Tanzania,2012,Sub-Saharan Africa,5.098,45.5
+Tanzania,2013,Sub-Saharan Africa,5.122,45.5
+Tanzania,2014,Sub-Saharan Africa,5.122,45.5
+Tanzania,2015,Sub-Saharan Africa,5.088,45.5
+Tanzania,2016,Sub-Saharan Africa,5.033,45.5
+Tanzania,2017,Sub-Saharan Africa,4.993,45.5
+Tanzania,2018,Sub-Saharan Africa,4.923,45.5
+Tanzania,2019,Sub-Saharan Africa,4.864,45.5
+Tanzania,2020,Sub-Saharan Africa,4.795,45.5
+Tanzania,2021,Sub-Saharan Africa,4.726,45.5
+Thailand,2000,East Asia & Pacific,1.612,89.7
+Thailand,2001,East Asia & Pacific,1.588,90.3
+Thailand,2002,East Asia & Pacific,1.567,90.9
+Thailand,2003,East Asia & Pacific,1.568,91.5
+Thailand,2004,East Asia & Pacific,1.566,92.1
+Thailand,2005,East Asia & Pacific,1.585,92.6
+Thailand,2006,East Asia & Pacific,1.571,93.2
+Thailand,2007,East Asia & Pacific,1.578,93.8
+Thailand,2008,East Asia & Pacific,1.579,94.4
+Thailand,2009,East Asia & Pacific,1.567,95.0
+Thailand,2010,East Asia & Pacific,1.576,95.6
+Thailand,2011,East Asia & Pacific,1.597,96.2
+Thailand,2012,East Asia & Pacific,1.586,96.8
+Thailand,2013,East Asia & Pacific,1.547,97.4
+Thailand,2014,East Asia & Pacific,1.51,98.0
+Thailand,2015,East Asia & Pacific,1.469,98.0
+Thailand,2016,East Asia & Pacific,1.435,98.0
+Thailand,2017,East Asia & Pacific,1.41,98.0
+Thailand,2018,East Asia & Pacific,1.378,98.0
+Thailand,2019,East Asia & Pacific,1.352,98.0
+Thailand,2020,East Asia & Pacific,1.341,98.0
+Thailand,2021,East Asia & Pacific,1.331,98.0
+Timor-Leste,2000,East Asia & Pacific,5.98,49.7
+Timor-Leste,2001,East Asia & Pacific,6.013,50.6
+Timor-Leste,2002,East Asia & Pacific,6.022,51.5
+Timor-Leste,2003,East Asia & Pacific,5.951,52.4
+Timor-Leste,2004,East Asia & Pacific,5.85,53.3
+Timor-Leste,2005,East Asia & Pacific,5.705,54.2
+Timor-Leste,2006,East Asia & Pacific,5.564,55.1
+Timor-Leste,2007,East Asia & Pacific,5.399,56.0
+Timor-Leste,2008,East Asia & Pacific,5.225,56.9
+Timor-Leste,2009,East Asia & Pacific,5.037,57.8
+Timor-Leste,2010,East Asia & Pacific,4.845,58.7
+Timor-Leste,2011,East Asia & Pacific,4.656,59.6
+Timor-Leste,2012,East Asia & Pacific,4.444,60.5
+Timor-Leste,2013,East Asia & Pacific,4.268,60.5
+Timor-Leste,2014,East Asia & Pacific,4.085,60.5
+Timor-Leste,2015,East Asia & Pacific,3.903,60.5
+Timor-Leste,2016,East Asia & Pacific,3.737,60.5
+Timor-Leste,2017,East Asia & Pacific,3.596,60.5
+Timor-Leste,2018,East Asia & Pacific,3.452,60.5
+Timor-Leste,2019,East Asia & Pacific,3.336,60.5
+Timor-Leste,2020,East Asia & Pacific,3.247,60.5
+Timor-Leste,2021,East Asia & Pacific,3.149,60.5
+Togo,2000,Sub-Saharan Africa,5.269,38.6
+Togo,2001,Sub-Saharan Africa,5.23,38.9
+Togo,2002,Sub-Saharan Africa,5.194,39.3
+Togo,2003,Sub-Saharan Africa,5.145,39.7
+Togo,2004,Sub-Saharan Africa,5.075,40.1
+Togo,2005,Sub-Saharan Africa,5.069,40.5
+Togo,2006,Sub-Saharan Africa,5.078,40.8
+Togo,2007,Sub-Saharan Africa,5.092,41.2
+Togo,2008,Sub-Saharan Africa,5.052,41.6
+Togo,2009,Sub-Saharan Africa,5.034,42.0
+Togo,2010,Sub-Saharan Africa,5.007,42.3
+Togo,2011,Sub-Saharan Africa,4.917,42.7
+Togo,2012,Sub-Saharan Africa,4.806,43.1
+Togo,2013,Sub-Saharan Africa,4.723,43.5
+Togo,2014,Sub-Saharan Africa,4.655,43.8
+Togo,2015,Sub-Saharan Africa,4.594,44.2
+Togo,2016,Sub-Saharan Africa,4.56,44.2
+Togo,2017,Sub-Saharan Africa,4.503,44.2
+Togo,2018,Sub-Saharan Africa,4.442,44.2
+Togo,2019,Sub-Saharan Africa,4.385,44.2
+Togo,2020,Sub-Saharan Africa,4.323,44.2
+Togo,2021,Sub-Saharan Africa,4.257,44.2
+Tunisia,2000,Middle East & North Africa,2.049,76.4
+Tunisia,2001,Middle East & North Africa,1.997,77.6
+Tunisia,2002,Middle East & North Africa,1.969,78.8
+Tunisia,2003,Middle East & North Africa,1.979,80.0
+Tunisia,2004,Middle East & North Africa,1.976,81.2
+Tunisia,2005,Middle East & North Africa,1.981,82.4
+Tunisia,2006,Middle East & North Africa,1.977,83.6
+Tunisia,2007,Middle East & North Africa,1.989,84.8
+Tunisia,2008,Middle East & North Africa,2.011,86.0
+Tunisia,2009,Middle East & North Africa,2.046,87.2
+Tunisia,2010,Middle East & North Africa,2.105,88.4
+Tunisia,2011,Middle East & North Africa,2.191,89.6
+Tunisia,2012,Middle East & North Africa,2.216,90.8
+Tunisia,2013,Middle East & North Africa,2.24,92.0
+Tunisia,2014,Middle East & North Africa,2.252,93.2
+Tunisia,2015,Middle East & North Africa,2.251,93.2
+Tunisia,2016,Middle East & North Africa,2.238,93.2
+Tunisia,2017,Middle East & North Africa,2.221,93.2
+Tunisia,2018,Middle East & North Africa,2.174,93.2
+Tunisia,2019,Middle East & North Africa,2.148,93.2
+Tunisia,2020,Middle East & North Africa,2.114,93.2
+Tunisia,2021,Middle East & North Africa,2.086,93.2
+Turkmenistan,2000,Europe & Central Asia,2.898,34.6
+Turkmenistan,2001,Europe & Central Asia,2.791,34.6
+Turkmenistan,2002,Europe & Central Asia,2.686,34.6
+Turkmenistan,2003,Europe & Central Asia,2.665,34.6
+Turkmenistan,2004,Europe & Central Asia,2.648,34.6
+Turkmenistan,2005,Europe & Central Asia,2.658,34.6
+Turkmenistan,2006,Europe & Central Asia,2.665,34.6
+Turkmenistan,2007,Europe & Central Asia,2.676,34.6
+Turkmenistan,2008,Europe & Central Asia,2.712,34.6
+Turkmenistan,2009,Europe & Central Asia,2.769,34.6
+Turkmenistan,2010,Europe & Central Asia,2.833,34.6
+Turkmenistan,2011,Europe & Central Asia,2.892,34.6
+Turkmenistan,2012,Europe & Central Asia,2.936,34.6
+Turkmenistan,2013,Europe & Central Asia,2.958,34.6
+Turkmenistan,2014,Europe & Central Asia,2.956,34.6
+Turkmenistan,2015,Europe & Central Asia,2.93,34.6
+Turkmenistan,2016,Europe & Central Asia,2.887,34.6
+Turkmenistan,2017,Europe & Central Asia,2.836,34.6
+Turkmenistan,2018,Europe & Central Asia,2.786,34.6
+Turkmenistan,2019,Europe & Central Asia,2.74,34.6
+Turkmenistan,2020,Europe & Central Asia,2.701,34.6
+Turkmenistan,2021,Europe & Central Asia,2.667,34.6
+Uganda,2000,Sub-Saharan Africa,6.832,52.4
+Uganda,2001,Sub-Saharan Africa,6.81,54.1
+Uganda,2002,Sub-Saharan Africa,6.779,55.8
+Uganda,2003,Sub-Saharan Africa,6.702,57.4
+Uganda,2004,Sub-Saharan Africa,6.653,59.1
+Uganda,2005,Sub-Saharan Africa,6.572,60.8
+Uganda,2006,Sub-Saharan Africa,6.481,62.5
+Uganda,2007,Sub-Saharan Africa,6.379,64.1
+Uganda,2008,Sub-Saharan Africa,6.251,65.8
+Uganda,2009,Sub-Saharan Africa,6.174,67.5
+Uganda,2010,Sub-Saharan Africa,6.071,69.1
+Uganda,2011,Sub-Saharan Africa,5.935,70.8
+Uganda,2012,Sub-Saharan Africa,5.784,72.5
+Uganda,2013,Sub-Saharan Africa,5.618,74.2
+Uganda,2014,Sub-Saharan Africa,5.463,75.8
+Uganda,2015,Sub-Saharan Africa,5.306,75.8
+Uganda,2016,Sub-Saharan Africa,5.174,75.8
+Uganda,2017,Sub-Saharan Africa,5.052,75.8
+Uganda,2018,Sub-Saharan Africa,4.932,75.8
+Uganda,2019,Sub-Saharan Africa,4.809,75.8
+Uganda,2020,Sub-Saharan Africa,4.693,75.8
+Uganda,2021,Sub-Saharan Africa,4.585,75.8
+Ukraine,2000,Europe & Central Asia,1.116,93.0
+Ukraine,2001,Europe & Central Asia,1.078,93.3
+Ukraine,2002,Europe & Central Asia,1.095,93.7
+Ukraine,2003,Europe & Central Asia,1.172,94.0
+Ukraine,2004,Europe & Central Asia,1.218,94.3
+Ukraine,2005,Europe & Central Asia,1.213,94.6
+Ukraine,2006,Europe & Central Asia,1.31,94.9
+Ukraine,2007,Europe & Central Asia,1.345,95.2
+Ukraine,2008,Europe & Central Asia,1.458,95.6
+Ukraine,2009,Europe & Central Asia,1.473,95.9
+Ukraine,2010,Europe & Central Asia,1.443,96.2
+Ukraine,2011,Europe & Central Asia,1.459,96.5
+Ukraine,2012,Europe & Central Asia,1.531,96.8
+Ukraine,2013,Europe & Central Asia,1.506,97.1
+Ukraine,2014,Europe & Central Asia,1.498,97.5
+Ukraine,2015,Europe & Central Asia,1.506,97.8
+Ukraine,2016,Europe & Central Asia,1.466,97.8
+Ukraine,2017,Europe & Central Asia,1.374,97.8
+Ukraine,2018,Europe & Central Asia,1.301,97.8
+Ukraine,2019,Europe & Central Asia,1.228,97.8
+Ukraine,2020,Europe & Central Asia,1.217,97.8
+Ukraine,2021,Europe & Central Asia,1.16,97.8
+Uzbekistan,2000,Europe & Central Asia,2.58,83.4
+Uzbekistan,2001,Europe & Central Asia,2.46,83.1
+Uzbekistan,2002,Europe & Central Asia,2.52,82.8
+Uzbekistan,2003,Europe & Central Asia,2.36,82.5
+Uzbekistan,2004,Europe & Central Asia,2.46,82.1
+Uzbekistan,2005,Europe & Central Asia,2.36,81.8
+Uzbekistan,2006,Europe & Central Asia,2.39,81.5
+Uzbekistan,2007,Europe & Central Asia,2.554,81.2
+Uzbekistan,2008,Europe & Central Asia,2.637,80.9
+Uzbekistan,2009,Europe & Central Asia,2.53,80.9
+Uzbekistan,2010,Europe & Central Asia,2.342,80.9
+Uzbekistan,2011,Europe & Central Asia,2.236,80.9
+Uzbekistan,2012,Europe & Central Asia,2.193,80.9
+Uzbekistan,2013,Europe & Central Asia,2.35,80.9
+Uzbekistan,2014,Europe & Central Asia,2.457,80.9
+Uzbekistan,2015,Europe & Central Asia,2.491,80.9
+Uzbekistan,2016,Europe & Central Asia,2.455,80.9
+Uzbekistan,2017,Europe & Central Asia,2.419,80.9
+Uzbekistan,2018,Europe & Central Asia,2.604,80.9
+Uzbekistan,2019,Europe & Central Asia,2.785,80.9
+Uzbekistan,2020,Europe & Central Asia,2.904,80.9
+Uzbekistan,2021,Europe & Central Asia,3.173,80.9
+Zambia,2000,Sub-Saharan Africa,5.926,34.7
+Zambia,2001,Sub-Saharan Africa,5.862,35.8
+Zambia,2002,Sub-Saharan Africa,5.792,36.9
+Zambia,2003,Sub-Saharan Africa,5.726,38.0
+Zambia,2004,Sub-Saharan Africa,5.715,39.1
+Zambia,2005,Sub-Saharan Africa,5.71,40.3
+Zambia,2006,Sub-Saharan Africa,5.686,41.4
+Zambia,2007,Sub-Saharan Africa,5.609,42.5
+Zambia,2008,Sub-Saharan Africa,5.537,43.6
+Zambia,2009,Sub-Saharan Africa,5.452,44.7
+Zambia,2010,Sub-Saharan Africa,5.363,45.8
+Zambia,2011,Sub-Saharan Africa,5.271,46.9
+Zambia,2012,Sub-Saharan Africa,5.146,48.0
+Zambia,2013,Sub-Saharan Africa,5.026,49.1
+Zambia,2014,Sub-Saharan Africa,4.899,50.2
+Zambia,2015,Sub-Saharan Africa,4.793,51.3
+Zambia,2016,Sub-Saharan Africa,4.707,51.3
+Zambia,2017,Sub-Saharan Africa,4.614,51.3
+Zambia,2018,Sub-Saharan Africa,4.536,51.3
+Zambia,2019,Sub-Saharan Africa,4.451,51.3
+Zambia,2020,Sub-Saharan Africa,4.379,51.3
+Zambia,2021,Sub-Saharan Africa,4.308,51.3
+Zimbabwe,2000,Sub-Saharan Africa,3.974,69.6
+Zimbabwe,2001,Sub-Saharan Africa,3.954,69.5
+Zimbabwe,2002,Sub-Saharan Africa,3.887,69.3
+Zimbabwe,2003,Sub-Saharan Africa,3.821,69.2
+Zimbabwe,2004,Sub-Saharan Africa,3.738,69.0
+Zimbabwe,2005,Sub-Saharan Africa,3.665,68.9
+Zimbabwe,2006,Sub-Saharan Africa,3.62,68.7
+Zimbabwe,2007,Sub-Saharan Africa,3.652,68.5
+Zimbabwe,2008,Sub-Saharan Africa,3.774,68.4
+Zimbabwe,2009,Sub-Saharan Africa,3.945,68.2
+Zimbabwe,2010,Sub-Saharan Africa,4.025,68.1
+Zimbabwe,2011,Sub-Saharan Africa,4.096,67.9
+Zimbabwe,2012,Sub-Saharan Africa,4.096,67.8
+Zimbabwe,2013,Sub-Saharan Africa,4.064,67.6
+Zimbabwe,2014,Sub-Saharan Africa,3.962,67.5
+Zimbabwe,2015,Sub-Saharan Africa,3.849,67.3
+Zimbabwe,2016,Sub-Saharan Africa,3.771,67.3
+Zimbabwe,2017,Sub-Saharan Africa,3.706,67.3
+Zimbabwe,2018,Sub-Saharan Africa,3.659,67.3
+Zimbabwe,2019,Sub-Saharan Africa,3.599,67.3
+Zimbabwe,2020,Sub-Saharan Africa,3.545,67.3
+Zimbabwe,2021,Sub-Saharan Africa,3.491,67.3
