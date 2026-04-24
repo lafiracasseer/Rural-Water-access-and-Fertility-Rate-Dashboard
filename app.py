@@ -197,7 +197,7 @@ def load_data():
     try:
         import os
         BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-        path = os.path.join(BASE_DIR, "merged_dataset.csv"")
+        path = os.path.join(BASE_DIR, "merged_dataset.csv")
         df = pd.read_csv(path)
         df["year"] = df["year"].astype(int)
         df["fertility_rate"] = pd.to_numeric(df["fertility_rate"], errors="coerce")
