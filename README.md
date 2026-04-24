@@ -3,6 +3,8 @@
 ## Project Overview
 This project explores the relationship between rural infrastructure and demographic shifts. Specifically, it investigates the hypothesis that improved access to basic drinking water in rural areas correlates with a decline in national fertility rates by reducing time poverty for women and improving child survival rates.
 
+https://rural-water-access-and-fertility-rate-dashboard.streamlit.app/
+
 ## Key Features
 - **Interactive Global Map:** Visualization of rural water access levels across 85+ countries.
 - **Correlation Analysis:** Statistical breakdown of how water utility access impacts fertility trends.
