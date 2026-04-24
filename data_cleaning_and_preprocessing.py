@@ -1,8 +1,8 @@
 import pandas as pd
 
 #LOADING DATASET FILES
-RW= pd.read_csv(r"C:\Users\Lafira\OneDrive\Desktop\Dashboard\data\FAO_AS_4115.csv")
-FR = pd.read_csv(r"C:\Users\Lafira\OneDrive\Desktop\Dashboard\data\WB_GS_SP_DYN_TFRT_IN.csv") 
+RW= pd.read_csv("data/FAO_AS_4115.csv")
+FR = pd.read_csv(data/WB_GS_SP_DYN_TFRT_IN.csv") 
 
 print(f"Fertiltiy_rate raw shape:  {FR.shape}")
 print(f"Rural_water  raw shape:  {RW.shape}")
@@ -116,7 +116,7 @@ merged = merged.sort_values(["country", "year"]).reset_index(drop=True)
 merged = merged[["country", "year", "region", "fertility_rate", "rural_water_access_pct"]]
 
 #SAVING THE MERGED DATASET
-merged.to_csv(r"C:\Users\Lafira\OneDrive\Desktop\Dashboard\data\merged_dataset.csv", index=False)
+merged.to_csv("data/merged_dataset.csv", index=False)
 
 print(f"\nCLEANED DATASET SAVED")
 print(f"   Rows:      {len(merged)}")
