@@ -1,6 +1,6 @@
 # How does access to safe drinking water in rural areas effect fertility rates? 
 
-This project explores the relationship between rural infrastructure and demographic shifts. Specifically, it investigates the hypothesis that improved access to basic drinking water in rural areas correlates with a decline in national fertility rates by reducing time poverty for women and improving child survival rates.
+This dashboard explores how access to safe drinking water in rural areas correlates with national fertility rates. Using global data from 2000 to 2021, it visualizes whether improving basic infrastructure in rural communities leads to a decline in births per woman.
 
 https://rural-water-access-and-fertility-rate-dashboard.streamlit.app/
 
