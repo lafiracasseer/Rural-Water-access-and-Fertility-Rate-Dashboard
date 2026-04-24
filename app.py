@@ -332,7 +332,7 @@ tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
     "Correlation",
     "World Map",
     "Trends",
-    "Deep Dive",
+    "Analysis",
     "Summary"
 ])
 
@@ -432,7 +432,7 @@ with tab1:
             st.plotly_chart(style(figb2, 340), use_container_width=True)
 
 # ═══════════════════════════════════════════════════════════════════════════════
-# TAB 2 — CORRELATION EXPLORER  (dash.py's neat scatter + region Pearson table)
+# TAB 2 — CORRELATION EXPLORER  
 # ═══════════════════════════════════════════════════════════════════════════════
 with tab2:
     if df.empty:
@@ -602,7 +602,7 @@ with tab3:
 
         st.markdown(f"""
         <div class='insight'>
-        🗺️ The map shows <b>{map_metric}</b> for <b>{map_yr}</b>.
+        The map shows <b>{map_metric}</b> for <b>{map_yr}</b>.
         Darker colours on the water map indicate <b>higher water access</b>.
         Darker colours on the fertility map indicate <b>higher fertility rates</b>.
         Notice how the patterns are often <b>inversely related</b>.
@@ -760,10 +760,10 @@ with tab4:
                     st.dataframe(pd.DataFrame(rows_t), use_container_width=True, hide_index=True)
 
 # ═══════════════════════════════════════════════════════════════════════════════
-# TAB 5 — DEEP DIVE  
+# TAB 5 — ANALYSIS
 # ═══════════════════════════════════════════════════════════════════════════════
 with tab5:
-    st.markdown('<div class="section-hdr">Country Deep-Dive</div>', unsafe_allow_html=True)
+    st.markdown('<div class="section-hdr">Country Analysis</div>', unsafe_allow_html=True)
 
     default_idx = COUNTRIES.index("India") if "India" in COUNTRIES else 0
     country_sel = st.selectbox("Select a country", COUNTRIES, index=default_idx)
