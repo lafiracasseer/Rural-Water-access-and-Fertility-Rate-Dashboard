@@ -10,7 +10,6 @@ from scipy import stats
 # ── Page config ────────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="Water Access & Fertility Rates",
-    page_icon="💧",
     layout="wide",
     initial_sidebar_state="expanded",
 )
